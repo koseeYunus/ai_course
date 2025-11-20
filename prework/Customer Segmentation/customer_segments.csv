@@ -1,0 +1,3055 @@
+id_customer,fname,lname,company,Recency,Frequency,Monetary,Segment
+3,John,Smith,Company1,160,2,108.72,1
+4,James,Anderson,,888,1,29.55,0
+5,Abraham,Pollak,Company3,615,3,124.99,0
+7,peggy ,thompson,,872,1,49.14,0
+8,Randy,Pruss,,858,1,69.7,0
+10,Tommy ,Smith,,844,1,34.0,0
+11,Mark,Tremble,,844,1,34.0,0
+12,Emely,Cooke,,843,1,31.47,0
+13,george,mcmillin,,454,3,322.93,0
+14,adrian,Cavitt,,839,1,349.98,0
+15,Sharon,Mueller,,834,1,28.89,0
+21,Corey ,Edmondson,,832,1,34.0,0
+22,Robert,Miller,,829,1,23.63,0
+23,Mekala,Whitaker,,496,4,363.34000000000003,0
+24,Richard ,Ariano,,827,1,39.33,0
+25,marc ,gorzynski,,827,1,35.0,0
+26,Richard L. ,Shaak,,826,1,35.0,0
+27,Kenneth ,Schmude,,686,7,128.73000000000002,0
+30,Jesse ,Spalding,,823,1,35.0,0
+31,Alan,Safir,Company4,823,1,170.34,0
+32,Elvia,Mejia,,823,1,43.2,0
+33,Sheryl,Martinez,,821,1,14.83,0
+35,jennifer,fletcher,Company5,815,1,27.17,0
+37,Satish,Karandikar,,813,1,116.13,0
+39,James,Head,,811,1,28.95,0
+40,Leonard,Sachs,,809,1,154.7,0
+41,troy,winder,,809,2,205.82,0
+42,Tiffany,Hooper,,808,1,32.09,0
+43,Carla,Torres,,807,1,49.14,0
+44,Erika,Dorado,,806,1,39.95,0
+45,rafael,chemtob,Company6,754,10,1361.15,3
+46,Carol,Carol,,804,1,14.83,0
+48,Blu,Morris,Company7,792,1,102.75,0
+50,Rob,Inie,,802,1,118.98,0
+52,Kenneth,Long,Company8,801,1,63.67,0
+55,patricia,davenport3429 us,,330,7,1972.18,3
+56,Mark,Fortune,Company9,798,1,213.29,0
+57,Robert,Leonard,,796,1,140.28,0
+59,Bobby,Bennett,Company10,794,1,27.41,0
+60,Monette,Molinar,,794,1,102.77,0
+61,james,huff,,792,1,47.33,0
+62,Steven,Galagarza,,791,1,39.95,0
+63,Jannett ,Stewart,,790,1,68.89,0
+65,Allette,Hannon,,788,3,164.73,0
+66,Norrell,Nelson,,788,1,119.7,0
+68,barry,siegel,,788,1,210.01,0
+69,Jill,Shulman,,788,1,59.49,0
+70,Michelle,Petrelli,,784,1,265.26,0
+71,Ana Maria,Puente,,787,1,44.66,0
+72,Jean ,Conary,,786,1,35.0,0
+73,michael,hughes,,141,3,124.39,1
+74,Richard,Ernst,Company11,784,1,129.65,0
+75,Scott,Meyer,,784,1,52.67,0
+76,Iddo,Enochs,,784,1,33.88,0
+77,william,payne,Company12,783,1,94.28,0
+78,Sheila,Collier,Company13,782,1,86.31,0
+79,Karen,Sims,,177,5,343.78000000000003,1
+82,NIck,Kresovich,,781,1,119.7,0
+84,Robin,Fryzel,,777,1,92.02,0
+85,vera,arborio,,776,3,312.48,0
+100,Arlene ,Maldonado,,329,3,2784.8199999999997,3
+101,Mark,Forte,,735,2,56.72,0
+102,Maria,Villatoro,,775,1,98.63,0
+103,Nurilla,Abdullayev,,774,1,41.55,0
+104,Roslyn,Silvernagel,,660,5,208.96,0
+105,Ryan,Oler,,774,1,37.53,0
+106,Mike ,Tidwell,Company14,772,1,50.55,0
+112,Barry,Oxford,,764,1,44.22,0
+113,SPECIAL ORDER,S JOSE,Company15,761,1,88.17,0
+114,Eddy,Gee,,758,1,154.65,0
+115,Kimie,Ohori,,754,1,47.49,0
+116,Anna,Rothenhausler,,750,1,33.99,0
+117,amaury ,ORTIZ,,749,1,33.99,0
+118,michelle,suarez,,749,1,32.99,0
+120,Dwight ,Smith,,746,1,86.99,0
+121,Tomorra ,Valdez,,746,1,32.99,0
+122,Jessie,Whitus,,743,1,61.29,0
+123,Thomas,Jordan,,742,1,129.99,0
+124,Terry,Schneider,Company16,742,1,88.91,0
+125,mark ,marchand,,741,1,32.1,0
+128,Patricia,Powell,,737,1,33.99,0
+129,Paul,Wong,,737,1,129.99,0
+130,phil ,coover,,736,1,129.99,0
+131,Claudia ,Vital,,736,1,33.99,0
+132,Chao ,Chen,,736,1,129.99,0
+133,Aaron ,Taylor,,735,1,129.99,0
+134,Virginia,Lopez,,735,1,61.15,0
+135,Harry,Stokes,,735,1,211.84,0
+136,Fred ,McDonald,,734,1,64.49,0
+137,kerry ,grosse,,645,3,113.30000000000001,0
+143,Lalith,Paulus,Company17,627,2,3680.0,3
+144,Kim,Novick,,734,1,120.53,0
+145,Cynthia,Towers,,733,1,38.88,0
+147,Kay,Pruitk,,733,1,120.53,0
+148,anthony,jones,Company18,733,1,101.55,0
+149,Mary ,Allbright,,732,1,134.69,0
+150,Jeff,Rudisill,,730,1,129.99,0
+151,Ollie,Ward,,728,1,116.3,0
+152,Edwin,Colton,,728,1,120.53,0
+153,James ,Lewis,,726,1,129.99,0
+154,Zeljko ,Vilic,,726,1,22.41,0
+155,Jack,Rubinsohn,,726,3,689.88,0
+156,Douglas,Pircher,,726,1,66.18,0
+157,JAMES,CASADO,,725,1,143.37,0
+159,Charlotte ,Tarkington,,725,1,133.99,0
+160,Kay,Shiflett,,722,1,129.99,0
+161,Austin,Stark,,722,1,129.99,0
+162,Donna,Murphy,,722,1,129.99,0
+163,Scott,Spencer,,722,1,55.89,0
+164,Vasana ,Rittharomya,,722,1,32.99,0
+166,Purley,Newson,,722,1,30.72,0
+167,Lucy ,White,,720,1,64.49,0
+168,Joe,Roiser,,718,1,34.96,0
+169,lauren ,park,,717,1,86.99,0
+170,Peggy,Milliman,,717,1,84.94,0
+171,Ryan,Naiss,,716,1,300.94,0
+172,Lorrie ,Keys,,716,1,33.99,0
+173,Jere ,Hancock,,701,2,67.98,0
+174,Nancy ,Stuart,,716,1,22.66,0
+175,Rodney ,Lueck,,716,1,116.3,0
+176,Steven ,Holston,,715,1,22.66,0
+177,Juanita,Kelly,,715,1,133.99,0
+179,sandra,roberts,,710,1,221.25,0
+181,Debbie,Kennon,,708,1,117.67,0
+182,Phillip ,Stevens,,708,1,132.99,0
+183,Gordon ,Abercrombie,,708,1,132.99,0
+184,MELODY ,BURCH,,708,1,129.99,0
+185,RAUL,IGNACIO RASCON CARRILLO,,691,2,398.97,0
+186,william ,snelson,,708,1,132.99,0
+187,MARK ,ROBINSON,,708,1,129.99,0
+188,terry,davis,,705,1,84.2,0
+190,Deborah,Ferris,,707,1,19.66,0
+192,Linda,Galloway,,706,1,41.01,0
+193,Dena ,Davis,,704,1,32.99,0
+194,Rebecca,Mobley,,704,1,44.85,0
+195,Lisa,Volaric,,704,1,34.87,0
+196,marlo,weems,,701,1,24.58,0
+197,Sandi,Novinger,,701,1,98.35,0
+198,Michael ,Velez,,701,1,32.99,0
+199,todd,Wegner,,701,1,114.99,0
+200,Florence,Santiago,,701,1,58.59,0
+201,Michelle ,Gentges,,700,1,50.55,0
+202,MedicAbordable.com,No. 178,Company19,699,1,132.99,0
+203,Mark,Epstein,,698,1,742.0,0
+204,Dorothy,Rosenfield,,400,4,223.14,0
+205,DAVID,BRAGINSKY,,697,1,132.99,0
+206,Melinda,Fortner,,696,1,41.85,0
+207,Marlys,Oie,,694,1,77.99,0
+208,Kelly ,Sandoval,Company20,691,1,35.0,0
+209,Jeri ,Tschappat,,691,1,125.0,0
+210,David ,Priven,,690,1,64.49,0
+212,Sean,Hester,,688,3,1077.72,0
+213,Evelyn,Ho,,497,9,1157.47,3
+214,mary,vezendy,,688,1,34.87,0
+215,Vera,Gardner,,687,1,47.33,0
+216,Ginny ,Mulligan,,687,1,132.99,0
+217,Andrew ,Chapman,,685,1,33.99,0
+218,Gareth,Renkes,,685,2,3294.12,3
+219,Christine,Liberty,,684,1,67.15,0
+220,Jeannie,Fuller,,683,1,158.0,0
+221,Kay Kennia ,Chaveste,,683,1,32.99,0
+222,Helene,Johnson,Company21,679,1,50.21,0
+223,Frencey,Wilson,,679,1,25.13,0
+224,Kathy ,Sweet,,679,1,192.94,0
+225,Stefanie ,Bedner,,679,1,65.13,0
+226,James,Twigg,,678,1,49.85,0
+228,Tony,D'Agnolo,,678,1,33.99,0
+229,Kim,Torrence,,677,2,160.2,0
+230,Lionel ,Hernandez,,677,1,32.99,0
+231,Glyn ,Burton,,676,1,129.99,0
+232,Lakeisha,Jackson,,676,1,177.95,0
+233,Farhana ,Ahmad,,673,1,64.49,0
+234,Sheila,Shapiro,,669,1,116.13,0
+236,Kathleen,Fasciano,,667,1,24.52,0
+238,Jael,Ramadan,,666,1,22.74,0
+239,John,ONeill,Company22,666,1,177.33,0
+240,Robert,Guillow,,665,1,64.53,0
+242,Dawn,Cada,,27,9,1031.0,3
+243,CUSTOM ,METAL WORKS,,665,1,29.89,0
+244,Isabel,Roacho,,664,1,22.05,0
+245,Judy ,Tighe,,664,1,55.89,0
+246,korey,pack,,664,1,49.84,0
+247,Victoria,Sexton,,305,4,179.76,1
+248,Kevin,Schwenn,,663,1,167.95,0
+249,Betty ,Moore,,663,1,64.49,0
+250,Susan,Krecker,,663,1,132.99,0
+251,GREG,BROWN,,663,1,17.75,0
+252,Jonathan,Ruiz,Company23,454,2,121.46,0
+253,renee ,Pallotta,,662,1,35.3,0
+254,ALICE,STORTZ,,660,1,36.92,0
+255,Delfina ,Guzman Estevez,,660,1,124.0,0
+256,MedicAbordable.com ,No. 178,,660,1,265.98,0
+257,Warner ,Wingler,Company24,659,1,132.99,0
+258,Nancy,Anderson,,658,1,41.01,0
+260,Lester ,Winebrenner,,652,2,259.98,0
+261,Burma,Barnes,,657,1,178.95,0
+262,Ronald,Davis,,657,1,52.3,0
+263,Marcia,Baade,,657,1,41.81,0
+264,Lynda ,Froh,,656,1,22.66,0
+266,Barbara ,Lemasters,,655,1,64.49,0
+267,chad ,ashcraft,,655,1,56.12,0
+268,Empire,Medical,Company25,654,1,81.04,0
+269,rebecca,walker,,654,1,114.99,0
+270,Martha,Madera,,653,1,78.94,0
+272,Leo,Pak,,650,1,23.41,0
+273,Julie ,Velasco,,650,1,32.99,0
+274,Aimee,Fuselier,,649,1,19.71,0
+275,Amy ,Williams,,645,1,156.0,0
+276,Gloria,Gordon,,645,2,285.06,0
+277,Marvin,Hernandez,,636,1,17.23,0
+279,adam,henninger,,642,1,15.26,0
+281,Lisa ,Ryder,,641,1,129.99,0
+282,Valentine,Jideofor,Company26,641,1,22.39,0
+283,Sara,Rangel ,,640,1,43.16,0
+284,Walter ,Mitchell,Company10,638,1,41.01,0
+286,Bill,Bradford,,638,1,36.39,0
+287,Rob,Sanchez,Company27,476,2,369.7,0
+288,GARY,HEIDMAN,,638,1,253.39,0
+289,Joann,Brophy,,636,1,61.37,0
+290,Lona,Strawbridge,,636,1,126.94,0
+291,Monte,hutchins,,635,1,195.89,0
+292,Bernie ,Singletary,,634,1,695.99,0
+293,yesucher ,marguleis,,632,1,169.73,0
+294,Deborah ,Evans,,421,4,271.52,0
+295,Ann ,Duckworth,,632,1,22.66,0
+296,Michaela,Schmitz,,533,3,503.51,0
+297,Vito,Laudicina,,631,1,29.08,0
+298,Tammy,Whiting,Company28,599,2,169.91,0
+299,Teresa,Guss,,630,1,28.1,0
+300,Debra,Luciani,,630,1,79.28,0
+301,lavonne,Larkin,,630,1,22.37,0
+302,Gary,Schaeffer,Company29,630,1,103.78,0
+303,Ann,Blackmon,,629,1,125.99,0
+304,Alexander,Manly,,261,12,1383.8400000000001,3
+305,Leticia ,Lacson,,629,1,710.99,0
+306,Dorothy,Brown,,30,7,229.04,3
+307,Mike,Walsh,,628,2,372.6,0
+308,James ,James ,,628,1,64.49,0
+309,Linda,Lyonf,,628,1,98.15,0
+310,Ramachandra Murty,Krishnamsetty,,627,1,50.62,0
+311,Tony ,Bousalman,Company30,627,1,77.55,0
+312,Anne,Montez,,399,3,281.36,0
+313,earl,charlery,,625,1,65.24,0
+314,Ali ,Malik,,625,1,18.39,0
+315,maria ,gonzalez,,624,1,156.0,0
+316,Ed,Hartowicz,,623,1,156.0,0
+317,Nellie,Bernard,,623,1,33.62,0
+319,Gloria,Fontanilla,,621,1,77.99,0
+321,Kim,Erickson,,621,1,126.05,0
+323,Howard,Calloway,,620,1,107.15,0
+324,Jesse,Tramamell,,620,1,126.94,0
+325,Mark ,Taylor,,618,1,68.38,0
+326,Pam ,Napier,,618,1,22.66,0
+328,Susan ,Wood,,615,1,132.99,0
+329,Ryan,Haggard,,614,1,65.45,0
+330,Kevin,Wolf,,260,2,149.13,1
+331,Julie ,Moran,,613,1,265.98,0
+332,Zadie ,Carter,,613,1,86.99,0
+333,Lucinda,King,,62,6,2127.4700000000003,3
+334,Natasha,Waldhalm,,612,1,127.13,0
+337,sean ,kearney,Company31,610,1,132.99,0
+338,Louise ,Alger,,610,1,132.99,0
+339,Robert ,Armstrong,,610,1,132.99,0
+340,Rev. Rickey ,McAfee,,610,1,65.13,0
+342,John,Adt,,609,1,84.94,0
+343,Barbara,Larson,,609,1,126.05,0
+344,ANDREA,CASTRO,,608,1,51.35,0
+345,Duy ,Phan,,532,3,642.9300000000001,0
+346,Kathy ,Hendrix,,607,1,132.99,0
+347,chaf ,zalenski,,607,1,22.66,0
+348,Patricia M,Bomar,,606,1,78.99,0
+349,mary,sautter,Company32,603,1,232.2,0
+350,Aphel,Albritton,,603,1,71.99,0
+351,Randy ,McFadden,,602,1,156.0,0
+353,Maria ,Vizcaino,,602,1,132.99,0
+355,Dave ,Howell,,597,1,22.66,0
+356,Teri ,Pendegraft,,597,1,24.9,0
+357,Ivan ,Aldred,,597,1,22.66,0
+358,Wilford ,Schreiber,,597,1,132.99,0
+359,Keva ,Johnson,,597,1,33.21,0
+360,DEBERA ,LOVIN,,597,1,129.99,0
+361,Maria,Santos,,597,1,33.21,0
+362,Julia,Himely,,597,1,132.99,0
+363,JAMES,POMEROY JR.,,556,1,62.45,0
+364,judith ,williams,,596,1,132.99,0
+365,April ,Davis,,596,1,132.99,0
+366,Evelyn,Duncan,,595,1,77.99,0
+367,Gail,Whitney Allen,,594,2,182.5,0
+368,Julie,Mitchler,,593,1,76.38,0
+369,charles ,thompson,,593,1,132.99,0
+370,Jay,Goeloe,,593,1,22.7,0
+371,Martha,Dudley,,593,1,46.35,0
+372,sid,khosla,Company33,592,3,596.91,0
+373,julie,gallai,,467,2,350.7,0
+374,Stewart ,tauscher,,589,1,116.3,0
+375,Ron,Gilbert,,589,1,132.99,0
+376,Krinshnan ,Sivapakkiam,Company34,589,1,77.75,0
+377,Judy ,Williams,,589,1,78.94,0
+378,Carolyn ,Yarber,,589,1,116.3,0
+379,marc,brown,,588,2,251.54,0
+382,Randall,Wagstaff,,588,1,164.03,0
+383,Dorothy,Marue,,588,1,43.56,0
+384,Danny ,mills,,588,1,129.99,0
+385,William,York,,588,1,129.99,0
+386,helen,hughes,,574,1,69.34,0
+387,Natalie,Ohara,,574,1,51.31,0
+388,lisa,harris,Company35,573,1,22.59,0
+390,Janick ,Gaudreau,Company36,572,1,30.0,0
+391,James,Dempsey,,572,1,33.41,0
+392,Blanche,Rose,Company37,572,1,68.35,0
+393,henrietta ,cullinane,,572,1,116.3,0
+394,Earlin,Turner,,571,1,66.95,0
+396,Mary,Datoc,,204,18,3475.63,2
+397,Sonia ,Velez,,568,1,141.43,0
+398,Marisel,Galarza,Company38,564,2,288.3,0
+399,Cornelius,Riegel,,568,1,87.35,0
+400,Helen,Mayes,,568,1,22.79,0
+401,Ivory ,Field,,567,1,158.0,0
+402,Francisco,Lam,,567,1,91.52,0
+403,Jana,Mane,,12,15,4419.009999999999,2
+404,Carll,Asbury,,566,1,216.23,0
+405,Barbara,Dartez,,565,1,39.98,0
+406,jennifer,knowles,,562,1,126.05,0
+407,John,Belluomo,,562,1,23.88,0
+408,Stacey,Dierksmeier,,562,1,153.6,0
+409,Donald ,Ayres,,562,1,56.12,0
+411,Maribel,Stinson,,560,1,126.36,0
+412,Theresa,Ryan,,6,9,2077.81,3
+413,jim,stulce,,560,1,39.81,0
+414,Steven,LeBlanc,,560,1,126.05,0
+415,Stacy,Harrison,,559,1,174.56,0
+416,Susan,Flood,,559,1,49.04,0
+417,Richard,McCabe,,558,2,336.54,0
+418,Caren,Duda,,558,2,443.72,0
+419,Steve,Didio,,351,2,867.95,0
+420,karen,Groce,,557,1,168.0,0
+421,Lillie ,Gathing,,557,1,37.0,0
+422,William,Barczy,Company39,557,1,81.15,0
+426,Liduvina,Travieso,,556,1,23.52,0
+427,Virginia,Schroyer,,556,1,62.06,0
+428,Meyet,Weiss,,367,5,328.21000000000004,0
+430,Marie ,Baer,,555,1,22.66,0
+432,Jason,Arp,,554,1,171.94,0
+433,Dosinda,Perez,,552,1,26.44,0
+434,James,Doheny,,552,1,24.09,0
+435,Luis,Castro,,552,1,129.99,0
+436,Abraham,Pollak,,250,2,116.86,1
+438,Elizabeth,Field,,551,1,35.5,0
+440,Cecilia,Cervantes,,550,1,56.18,0
+441,sara,sajdak,,550,1,74.24,0
+442,David,Oconnell,,515,2,5093.3,3
+443,Bruce,McKechnie,,550,1,129.99,0
+444,JAMES ,HURST,,550,1,18.39,0
+445,Rob,Coty,,550,1,51.94,0
+446,Daniel,Lobato,,549,1,22.1,0
+447,Hector ,Aguilar,,547,1,116.3,0
+448,Tissa,Abeyratne,,547,1,49.34,0
+449,Hope,Swilley,,546,1,22.66,0
+450,Mark,Rosequist,,545,2,114.3,0
+451,Shirley,Johnson,,41,6,434.88,1
+452,Jason,Freeman,,545,1,65.45,0
+453,Herbert M,Levy,,39,4,498.75,1
+454,ANGELA,BURT,Company40,545,1,164.45,0
+455,Genesis,Dominguez,,545,1,116.3,0
+457,Jessica,Machado,,544,1,117.89,0
+458,Katherine ,Gordon,,543,1,60.05,0
+459,Ronald,Daniels,,543,1,47.23,0
+461,Lynda,Porter,,542,1,23.51,0
+462,Don,Goforth,Company41,540,2,398.18,0
+463,JIm,Rothenberger,,541,1,116.3,0
+464,Rose ,McCluney,,541,1,56.12,0
+465,Ashley,Bourdeau,,540,1,31.22,0
+466,Judy,Davis-Farash,,540,1,59.13,0
+467,Peter,lashenka,,540,2,308.1,0
+468,jacqueline ,pari,,540,1,124.44,0
+469,Robert,Etienne,,539,1,129.94,0
+470,Robin,Polanco,,539,1,129.99,0
+471,Jerald,Winston,,490,2,306.3,0
+472,Ronald,Rains,,538,1,116.3,0
+474,Lisa,Zotz,,537,1,85.76,0
+475,Alma,evans,,537,1,44.39,0
+476,Ronald,LeDrew,,514,2,171.7,0
+477,linda,haller,,533,1,54.51,0
+478,Farrah,Stohner,,533,1,116.3,0
+479,Charles,Anderson,,533,1,189.96,0
+480,Susan,Myron,,532,1,126.05,0
+481,Delores ,Linn,Company42,532,1,50.99,0
+482,Jana,Mane,,532,1,341.9,0
+483,Rachel,Quesada,,532,1,60.15,0
+484,Eric,Schell,,532,1,134.69,0
+485,brandy,Searfoss,,532,1,56.87,0
+486,Frances,Olona,,532,1,56.38,0
+488,Jay,Bear,,531,1,117.21,0
+489,Mary,Ehlmann,,531,1,50.99,0
+490,Jean Pierre,Forgues,,530,1,129.94,0
+491,Laura,Buckley,,490,2,94.98,0
+493,Wanda ,Bergman,,530,1,68.38,0
+494,Diana,Russell,,529,1,787.79,0
+495,Michael,DeLier,,529,1,22.13,0
+496,Carmen,Walters,,528,1,28.95,0
+497,Mark,Hollandsworth,Company43,528,1,42.93,0
+498,Marcia,Hartman,,527,1,343.75,0
+499,SYED,BILGRAMI,,525,1,101.51,0
+501,janet,Mason,,525,1,116.3,0
+502,Ned ,Herron,,449,2,107.11,0
+503,Frank,Fields,,299,3,140.97,1
+504,Angel,Campbell,,525,1,50.99,0
+505,Hilltop,RYS/ ATU,Company44,525,1,27.34,0
+506,Erin,Heintzinger,,524,1,689.99,0
+507,Fred,Lerner,,524,1,46.99,0
+508,Natalie,Irvin,,524,1,152.99,0
+509,Patricia,Skibiel,,523,1,357.99,0
+510,DR. Leann,Hildreth,Company45,523,1,202.19,0
+511,Joan,Perkins,,523,1,50.99,0
+512,Elmore,Hunsucker,,522,1,89.84,0
+513,Stacy,Williams,Company46,522,1,99.12,0
+514,Mary,Fong-Grimaud,,522,1,165.6,0
+515,Emily,Baxt,,36,25,4383.37,2
+516,CYNTHIA,Brooks,Company16,522,1,62.6,0
+517,Gary,krol,,522,1,38.76,0
+520,Gina,Pacheco,,188,4,696.21,1
+522,Paula,Kendrick,,337,2,213.94,0
+523,Lillian,Tirado,,521,1,370.29,0
+527,Yulexy ,Pastrana,,519,1,135.99,0
+528,Mack,Chapman,,519,1,135.99,0
+529,BRUCE,GALLETTI,,519,1,135.99,0
+530,Isabel,Cofino,Company47,518,1,83.09,0
+531,Ardeth,Galitzine,,518,2,483.1,0
+532,Dorothy,Helferich,,518,1,58.59,0
+533,Joel,Coombs,,517,1,55.49,0
+534,michelle,lawson-fairfield,,517,1,18.58,0
+535,Arlene,Jonhson,,516,1,107.15,0
+536,Eloise,Dantley,,516,1,23.33,0
+537,Rachel,May,,513,1,37.79,0
+538,vaughn,letbetter,,515,1,259.95,0
+539,Debbie,Everett,Company48,515,5,421.85,0
+543,charles,Hauss,,512,1,141.02,0
+544,Lenda,Townsend-Williams,,512,1,73.06,0
+546,Nancy,Fragapane,,511,1,76.38,0
+548,ELIZABETH,MACK,,511,1,22.39,0
+550,Tony,Moody,,393,4,782.85,0
+551,Joshua,Dreher,,509,1,95.16,0
+552,yvette,jenkins,,509,2,775.54,0
+553,Sherwin ,Tsai,,508,1,124.44,0
+554,Janice,Divan,,507,2,180.44,0
+556,David,hammel,,507,1,76.38,0
+558,Rodolfo,Barrera,Company49,507,1,28.1,0
+559,Drusilla,Hugo,Company50,507,1,42.93,0
+560,Marcos,Aquino,,507,2,127.68,0
+561,david,higgins,,506,1,138.6,0
+562,Diane,Gonzalez,,469,2,74.15,0
+564,Jennifer,Cassidy,,505,1,91.92,0
+565,Christopher,Balders,,505,1,183.7,0
+566,Patricia,Stead,,505,1,22.57,0
+568,Vendel,Csaszar,,504,1,45.44,0
+569,anthony,almedina,Company10,503,1,77.99,0
+571,Jospeh,Mercer,,503,1,116.3,0
+572,David,Hall,,503,1,351.99,0
+573,Schuyler,Buckley,,503,1,73.49,0
+574,Larry,Pike,,502,1,60.58,0
+575,Farhad,Afzalzada,,501,1,293.24,0
+576,John,Lewis,,498,1,89.11,0
+577,daniel,todd,Company51,497,1,24.78,0
+578,Haijuan,Yan,,496,1,40.25,0
+579,Shirley,Kervin,,496,1,37.94,0
+580,Daniel,Foster,,496,1,56.12,0
+581,Amanda,Whitener,,113,25,3568.99,2
+583,Randall ,Stockard,Company52,7,13,1364.43,3
+584,Irene,Tang,Company53,494,1,107.46,0
+585,Mario,Fernandez,Company54,494,3,357.42,0
+586,Steephanie,Bowser,,494,1,184.1,0
+587,Stephen,Boyle,,493,1,26.44,0
+589,robt,noble jr,,492,1,60.8,0
+591,William,Killian,,491,2,241.74,0
+592,Marline,Mcconnell,,490,1,121.47,0
+593,Ashley,Evelo,Company55,490,2,137.86,0
+594,Doris,Feathers,,194,2,184.51,1
+595,Cathy,Lefchuk,,490,1,76.01,0
+596,Renne,Lukas,Company56,490,1,196.06,0
+598,Michelle,Guevara,,490,1,77.99,0
+599,Mary,Said,,490,1,36.35,0
+600,Richard,Heilman,,489,1,47.49,0
+601,Diane,Wilde,,489,3,712.38,0
+602,Katrena,Towery,,489,1,39.95,0
+603,Sergey ,Sirik,,489,1,48.07,0
+605,Patricia,Hinderkf,,489,1,244.08,0
+606,Michael,Schimberg1,,488,4,530.04,0
+607,marsha,young,,488,2,100.44,0
+609,Jeanne,Kumjian,,496,1,149.94,0
+610,Kathryn,Kengor,,495,1,88.35,0
+611,tinamarie,schmit,,495,1,30.84,0
+612,Joan,Hulon,,496,1,59.49,0
+613,Pamela,Andrews,,488,2,161.06,0
+614,Ernest,Quick,,488,1,147.13,0
+617,Tom,Benner,Company57,487,1,135.94,0
+618,Heidi,Sprague,,487,1,129.9,0
+620,Roberta,Howard,,486,1,237.65,0
+621,Jennifer,Davis,,485,1,51.19,0
+622,Rose,Alvarez,,485,1,36.81,0
+624,Betsy,Babson,,480,2,283.37,0
+625,Antonia,von Zuben,,484,1,251.81,0
+627,Vince,Zambrana,,483,2,159.22,0
+629,Dana,Evans,,482,2,433.58,0
+630,Marjorie,Propst,,84,5,455.94,1
+631,Barbara,David,,481,1,152.43,0
+632,Nicole,Pederson,,481,1,49.25,0
+633,Mary,Lewis,,481,1,135.94,0
+634,Norma,Owens,,481,1,85.34,0
+635,David,Bravis,,481,1,62.45,0
+636,Kerry,Stiens,,481,1,20.17,0
+637,Thomas,Graham,,480,1,90.55,0
+639,Lisa,Williams,,480,1,33.99,0
+640,Michael ,Krukowski,,478,1,129.99,0
+641,Troy,timpel,,477,1,23.93,0
+642,Gregory,Alexander,,477,1,65.49,0
+649,Ruth ,Rhoades,Company58,477,1,56.94,0
+650,Gwendolyn,Williams,,476,1,66.95,0
+651,Ana,Guilherme,,476,1,132.99,0
+654,Ellan,Davidson,,475,1,32.99,0
+655,Mary,Methner,,475,1,129.99,0
+657,John,Moran,,475,1,48.65,0
+658,Dirk,Edge,,474,1,27.06,0
+659,Nichole,Thalji,,474,1,168.02,0
+660,Deborah,Williams,,474,1,57.59,0
+661,Robert ,Cruz,,473,1,22.66,0
+663,Marcia,Olsen,,42,2,144.8,1
+665,Lynda,Swenk,,471,1,72.19,0
+667,keegan,oconnell,,470,1,18.47,0
+669,Jeff,Ziv,,469,1,116.3,0
+670,Belen,Alvarez,,469,1,22.66,0
+671,susy,riley,,469,1,73.06,0
+672,katherine,mercer,,467,1,183.32,0
+673,Robert,Krug,,469,1,265.0,0
+674,Susan,Feinman,,468,1,31.67,0
+675,dennis,sandell,,468,1,26.44,0
+676,Ursula,Tobin,,468,1,42.61,0
+677,Jose,Avilez,,467,1,134.69,0
+678,Lee,Dixon,,467,1,59.82,0
+679,Wiliam,Gorham,,467,1,64.29,0
+680,DONALD,WEAVER,,467,1,86.56,0
+682,Sharon,Collins,,467,1,45.99,0
+684,ramiro,torres,,466,2,333.9,0
+686,amy,Barnes,,466,1,201.87,0
+687,John,Mcdonald,,466,1,145.51,0
+689,Catherine,Cooper,,465,1,60.1,0
+690,barbara,cole,,456,1,36.05,0
+691,Tho,Nguyen,,464,1,95.88,0
+692,Rodger,Myers,,464,1,50.31,0
+693,Florence,Motsinger,,464,1,59.35,0
+694,Mark,Hickman,,463,1,39.27,0
+695,Charles,Anderson,,186,6,1097.87,3
+696,Daryl,Williams,,463,1,135.99,0
+697,Cynthia,Murray,,463,1,129.99,0
+698,Monica,Mcintyre,,462,1,70.13,0
+699,Lisa,Clark,Company59,337,5,2783.21,3
+700,Everod,Vernon,Company60,462,1,307.64,0
+701,Vicky ,Patterson,,461,1,762.5,0
+702,Robert,Malloy,,308,4,199.85,1
+703,Gloria,Rosas,,461,1,74.75,0
+704,George ,palmer,,461,1,48.29,0
+705,Daniel,Zwahlen,,461,1,67.15,0
+707,Marcus Castro ,c/o Realogy Corp.,,460,1,120.9,0
+708,Brian,Kuester,Company61,460,1,75.91,0
+709,Henry,Nault,,459,1,73.06,0
+710,Jose,Sifontes,Company62,459,1,37.7,0
+713,Robert,Lazarus,,459,1,28.53,0
+715,Cheryl,VanBrocklin,Company63,458,1,39.56,0
+717,Leonard,Lundberg,,457,1,71.51,0
+719,Lisa,Cooke,,456,1,24.9,0
+720,Maria,Castellanos,,456,1,135.99,0
+721,Linda,Trepasso,,456,1,22.66,0
+724,VICTOR,TSATURIAN,,454,1,62.39,0
+725,Gavan,Goodrich,,454,1,144.94,0
+726,Candace,Lay,,454,1,1149.0,0
+727,Marian,Sheffield,,453,1,49.04,0
+729,G,Zent,,452,1,54.02,0
+730,Byron ,Anderson,,452,1,129.99,0
+731,Rene,Labordo,,452,1,68.89,0
+733,Kyle,Wilson,Company64,452,1,729.95,0
+734,Pearl,Masuisui,,428,2,190.76,0
+736,Jennifer,Dadesho,,450,1,51.58,0
+737,William,Redditt,,450,1,40.89,0
+738,Teena,Richardson,,450,1,29.93,0
+739,Elizabeth,Scott,,450,1,49.91,0
+740,Roberta,Games,,450,1,56.87,0
+742,Jamey,Evans,,227,1,115.7,1
+743,Nancy,Mayes,,449,2,107.46,0
+744,Kenneth,Witt,,449,1,129.99,0
+745,Chamroeun,Sar,,449,1,18.39,0
+746,liz,ayar,,448,1,34.35,0
+747,Lida,Garcia,,197,4,789.3,1
+748,cynthia,Shaffer,,448,1,138.19,0
+751,Jeffrey,Carder,,447,1,104.0,0
+753,chiam,weiss,,60,5,89.82,1
+754,Bertina,Doyle,,447,1,63.2,0
+756,Debra,Bain,,447,1,45.74,0
+758,Joyce,Props,Company65,446,1,268.75,0
+759,Imoto,Hiromitsu,,446,1,27.54,0
+760,Rayette,Kingery,,446,1,49.49,0
+762,Peg,Lockwood,,110,4,71.12,1
+763,Paul,Ford,,444,1,15.11,0
+764,Chad,Osborn,,91,4,758.72,1
+765,Ashad,Farooqui,,299,4,413.39,1
+766,Jacqueline,Burkett,,443,1,153.23,0
+767,Anabel,Martinez,,434,1,37.74,0
+769,J.A.,Dingman,Company57,442,2,136.02,0
+771,Jocelyn,Lefler,,440,2,111.53,0
+772,Marcia,Luftig,,441,1,130.34,0
+773,Charles,Farwell,,441,1,27.99,0
+774,Jill,Gaietto,,441,1,134.76,0
+776,Joe ,Moreno,,440,1,129.99,0
+777,Jammie,Mcfarland Thornhill,,440,1,76.38,0
+778,Doug,"Hendrix, DVM",Company66,440,1,42.93,0
+779,Andrease,Moore,,440,1,90.22,0
+780,Gregg,Wilke,Company67,440,1,160.56,0
+781,Richard,Lombart,,440,1,40.89,0
+782,Steve ,Waxberg,,440,1,22.66,0
+783,Frances,Zuniga,,439,2,329.12,0
+784,juanita,turner,Company68,438,1,25.62,0
+785,Ronald,Taubman,,438,1,47.23,0
+786,Monique,Bubnow,,438,2,170.56,0
+787,Ruby,Henson,,437,3,368.07,0
+789,Michael D,Swedberg,,300,3,293.01,1
+791,Richard ,Stults,,435,1,129.99,0
+792,Renee ,Hotard,,208,5,469.90000000000003,1
+793,Robert,Gibson,,434,1,72.33,0
+796,Carolyn,Talley,,434,1,29.93,0
+797,Christy,Dill,Company0,433,1,64.29,0
+800,Elisabeth,Aanensen,,432,1,41.01,0
+801,Terry,Trent,,432,1,95.51,0
+802,Frank,Yost,,432,1,48.07,0
+803,Tom,Picciolo,,432,1,129.99,0
+805,Charlotte,Krasinski,,432,1,50.59,0
+806,Thomas,Dozier,Company69,432,2,478.46,0
+807,Oliver,Eaton,,432,1,32.99,0
+808,Richard,Bowles,,431,1,37.94,0
+809,Kirill ,Cherepovitsky,,431,1,32.99,0
+810,Leigh-Anne,Tompkins,,431,1,47.94,0
+811,James,Leece,,430,1,76.38,0
+813,julia,leidecker,,430,1,28.0,0
+814,Norma,Dunn,,430,1,96.61,0
+817,marsha,poelma,,429,1,192.26,0
+818,Leah,Wasser,,429,1,54.28,0
+819,Emelita,Fernandez,,429,1,22.78,0
+820,Linda,Novak,,428,2,723.96,0
+821,David,Paige,Company70,428,1,84.22,0
+822,Gloria,Southall,,428,1,129.99,0
+823,Travestean,Williams,,427,1,92.28,0
+824,Mark,Koziol,,427,1,41.55,0
+825,Elaine,Allen,,427,1,810.0,0
+826,Deb,Wilkerson,,427,3,624.54,0
+827,George,Proto,Company10,427,1,52.16,0
+828,Dyann,Rivkin,,425,2,150.15,0
+829,joyce,chambers,,427,1,86.52,0
+830,Simone,Dauphin,,426,1,61.95,0
+831,Ray,Grover,,426,1,22.19,0
+832,Bobby,Brannum,,426,1,119.69,0
+833,Debbie,Watkins,,426,1,92.42,0
+834,George,Rich,,426,1,72.92,0
+835,Jeffery,Peters,,426,1,66.81,0
+836,David,Lewis,,426,1,55.94,0
+837,Leslie,Berro,,426,3,1012.23,0
+838,Ruth,Garcia,Company71,425,1,188.25,0
+839,Jeaneen,Macnamara,,425,1,42.93,0
+840,larry,westcott,,425,1,113.27,0
+841,Margaret,Brant,,425,1,50.29,0
+842,Thomas,Reilly,,425,1,56.22,0
+843,Margaret,Wickett,,425,1,49.33,0
+844,Jesus,Huizer,,425,1,26.44,0
+845,Joe,Alvarez,Company72,106,5,357.64,1
+847,Sidney,Stark,,424,1,149.33,0
+849,Tina,Prejean,,424,2,123.06,0
+851,Lynda,Samuels,,25,23,2627.09,2
+853,Arlene,Smith,,420,3,843.96,0
+854,sharon,dehart,Company73,420,1,60.58,0
+856,Steven,Fowler,Company74,420,1,398.11,0
+857,Cory,Desrosiers,,420,1,27.71,0
+858,Dionisia,Leal,,420,1,27.24,0
+859,Vivian,Conlyn,,420,1,37.14,0
+860,caree,baker,,326,2,153.2,0
+861,Rachelle,Campos,Company75,419,1,36.02,0
+862,Marjorie,Ajerl,Company76,418,1,114.43,0
+864,Nicholas,Falsetta,,418,1,98.85,0
+865,Edwina,Bengtson,,418,1,81.19,0
+866,FEB,KNODERER,,418,4,346.52,0
+868,Donna,Rude,,418,1,23.45,0
+869,Robert,Cunningham,,417,1,25.09,0
+873,Steve,Gonzalez,,417,1,29.4,0
+874,Mirjana,Milovancev,,417,1,55.94,0
+876,Valisia,Andrews,Company77,416,5,1687.3,3
+877,Amy,Becker,,416,2,184.56,0
+878,Ronald,Maloof,,416,1,15.71,0
+880,Michelle,Street,,414,1,157.45,0
+881,Nicholas ,Finley,,287,2,132.76,1
+882,Monique,Lewellen,Company78,413,1,122.63,0
+883,Jan,Parsons,,413,1,40.1,0
+885,Verlyn,Walker,,124,7,452.55,3
+886,Dorothy,Brice,,412,1,25.54,0
+887,William,Rimmler,,412,1,117.84,0
+888,Donald,Wright,,412,1,39.21,0
+889,Anne,Montez,,412,1,115.37,0
+890,RAYMOND,masher,,412,1,29.93,0
+891,Matt,Treska,Company79,412,1,52.64,0
+892,Donna,Bickley,,412,1,39.94,0
+893,Robert,Purnick,,411,1,133.05,0
+895,Myra,Berg,,411,1,41.99,0
+896,John ,Ogden,,411,1,66.38,0
+897,Rudi,Gammo,,411,1,201.06,0
+898,Mary Jean,Nicholls,,411,1,29.27,0
+899,Boris ,Pikhtovnikoff ,,410,1,1100.0,0
+901,Cathy,Moor,,410,1,66.95,0
+903,Deborah,Richter,,400,1,70.0,0
+904,Margaret,Pyler,,400,1,27.34,0
+905,tony,moore,,399,1,195.08,0
+906,Audrey,Camelo,,399,1,129.99,0
+907,Linda,Braden,,398,1,56.88,0
+908,JoAnn,Kucklick,,281,2,214.4,1
+909,JOHN,SIRMAN,,393,1,39.47,0
+910,Michael J,Pluskwik,,398,1,22.55,0
+912,Carol,Rohr,,397,1,129.99,0
+913,Andrea,Walker,,397,1,41.99,0
+914,Edwin   A.,Henry,,397,1,58.21,0
+915,Anne,Whitson,,397,1,56.32,0
+916,Thomas,Baker,,397,1,129.99,0
+917,Fern,Ballou,,307,3,82.4,1
+918,Vivienne,Fronstin,,396,1,36.75,0
+922,Carlo,DePaolis,,393,1,41.99,0
+923,Lewis,Quinn,,393,1,116.3,0
+924,Gilberto,maldonado,,393,1,116.3,0
+925,teresa,biggs,Company81,393,1,31.94,0
+927,Carl,Mottek,,392,1,23.64,0
+929,Cassandra,Phifer,,352,2,89.65,0
+930,Brenda,Smith,,392,1,71.05,0
+932,Lynda,Green,,392,1,35.99,0
+933,Alice,taggart,Company82,391,1,345.75,0
+934,Gayle,Herrington,,391,1,115.79,0
+936,Wanda,Walker,Company83,384,2,1325.0,0
+937,Daryl,Mcintyre,,390,2,75.03999999999999,0
+938,Art,Schallersr,,390,1,93.93,0
+940,Christine,Thompson,,389,1,55.75,0
+942,Cathy,Gould-Harrison,,388,1,132.56,0
+943,Linda,Amezcua,,388,1,108.95,0
+944,Karen,Ber,,387,1,39.99,0
+947,Sally,Rieg,,385,1,152.99,0
+948,Ruth,malor,,385,1,98.99,0
+949,Tim,Bowers,,385,1,174.95,0
+950,Emma,Homberg,,385,1,14.83,0
+952,Sonia ,Walker,,384,1,43.56,0
+955,Alexander ,Chinchilla,,383,1,116.3,0
+956,Randy,Hickey,,383,1,66.38,0
+957,TARI L.,BERRY,Company84,381,1,55.49,0
+958,billie,leon,,381,1,45.64,0
+959,Alan,Chen,,381,1,44.11,0
+960,MONROE,OGDEN,,381,1,29.51,0
+962,Lorraine,Hilliker,,380,1,166.28,0
+964,Carlos,Villarreal,,379,1,75.39,0
+965,Arlene,Weber,,379,1,28.95,0
+966,Roselynn,Woolf,,252,3,186.18,1
+967,Lynn,Bradtke,,379,1,20.73,0
+968,Hillel,Marans,Company85,379,1,178.73,0
+969,Sandra,Tucker,,379,1,62.39,0
+970,Mimi,Dompier,,379,1,63.32,0
+971,gloia,volan,,379,1,88.86,0
+972,Peggy,Taylor,,379,1,116.3,0
+973,Eleni,Ventsanos,Company86,21,11,1925.05,3
+974,Sharon,Greminger,,378,1,62.1,0
+976,Charles P.,Jones,,378,4,2093.16,3
+977,Omar,Hermandez,,378,1,116.3,0
+978,Stan W,Elems,,355,6,548.1,3
+979,Emily,Morrow,,167,3,397.40999999999997,1
+983,Pam,Bottomley,Company87,377,1,32.35,0
+984,Anne,Fortunato,Company88,377,1,37.14,0
+985,Shirley,Wade,Company89,377,6,5713.08,3
+986,Carol,Shelton,,377,1,25.74,0
+987,Joy,Ekwueme,,376,1,1329.05,0
+988,Martha ,Infante,,376,1,116.97,0
+989,Lisa,Johnson,,376,1,129.9,0
+990,Richard,Hooper,,376,1,44.73,0
+991,Carl,Dermody,,376,1,40.1,0
+992,Ed W,Hicks,,376,1,55.75,0
+993,William,Steinmann,,375,1,51.33,0
+995,Detri,Masters,,375,1,39.99,0
+996,Vivian,McKinney,,375,1,71.05,0
+997,Josephine,Roberts,,217,2,69.02000000000001,1
+998,Richard,Tomlin,,375,1,124.6,0
+999,Michael,Davis,,375,1,187.2,0
+1000,Melody,Sullivan,,375,1,129.9,0
+1006,linda,fisher,,372,1,37.27,0
+1009,I,reilly,,372,1,189.74,0
+1011,Rachel,Leemon,,371,1,127.13,0
+1012,Sheri,Phillips,Company90,370,1,527.05,0
+1013,Gabrielle,Anderson,,370,1,161.95,0
+1016,Saul,Morehead,,370,1,77.99,0
+1017,William,Ochs,,370,1,121.95,0
+1018,Todd,Knurr,,209,17,2300.9,3
+1019,james,fauser,,370,1,202.26,0
+1022,Maria,Geoffroy,,369,1,56.94,0
+1023,Helen,Paster,,369,2,312.6,0
+1024,Kamilah,Willis,,369,1,23.51,0
+1027,Betty ,Ware,,7,4,465.18,1
+1029,Sonia,Shaine,,369,1,21.47,0
+1030,Marlys,Peterson,Company91,369,3,1213.98,0
+1031,Joyce,LeDuc-Hampton,Company92,369,1,99.65,0
+1032,Winona,Begay,,368,1,204.99,0
+1033,Walter,Cluett,,368,1,124.94,0
+1034,Christopher,Ammen,,68,5,633.2099999999999,1
+1036,David,Hosom,,368,1,28.35,0
+1037,nancy,Thompson,,368,1,39.99,0
+1038,Tiffany,DeVoss,,42,6,319.83,1
+1039,Jihan,Antipolo,,367,1,160.0,0
+1042,Edward,Tworek,,367,1,23.02,0
+1043,Lee,Ceccotti,,2,41,15228.95,2
+1045,Brian,Hill,,366,1,131.54,0
+1046,Marjorie,Terry,,365,1,43.64,0
+1048,INDIRA,GOMEZ,,365,1,33.69,0
+1049,Marie,Lettieri,,365,1,132.07,0
+1050,Rodney,Erickson,,365,1,100.94,0
+1051,Tessie ,Luther,,365,1,116.3,0
+1052,Ryan,Werkheiser,,365,1,135.63,0
+1053,Connie,Walsh,,365,1,200.0,0
+1054,Wendy,Westbrooks,Company93,364,1,196.11,0
+1055,Louis,Shipe,,364,1,49.84,0
+1056,Jean,Blocker,,278,3,468.8,1
+1057,Ona,Alberti,,357,2,45.099999999999994,0
+1058,Richard,Berge,Company94,364,1,128.28,0
+1060,Devon,McCoy,,364,1,41.75,0
+1061,Charles,mccrea,,364,1,44.18,0
+1063,sharma,Zotter,,363,2,149.78,0
+1065,Reuben,James,,363,1,39.15,0
+1066,Martha,Edwards,,362,2,145.3,0
+1067,Petrisha,benning,,362,1,88.67,0
+1069,Gary,Gribben,,362,1,18.99,0
+1072,Velma,Fernandez,Company16,361,1,64.99,0
+1073,James,Vallier,,314,1,139.1,0
+1076,robert,crawrod,,361,1,39.99,0
+1077,Lucile,Lapin,,361,1,39.99,0
+1078,Sonja ,Reinheimer,,361,1,65.0,0
+1080,Aurelia,Mcintosh,,359,1,130.94,0
+1083,Wilfredo,Ramos,,358,1,27.95,0
+1084,marta,pena,,357,1,48.07,0
+1085,Tammy,Kisz,,357,1,174.95,0
+1086,Shawn ,Ladd,,357,1,37.0,0
+1087,Richard,Hamilton,,356,1,168.75,0
+1088,Ruthann,Gates,,356,1,25.75,0
+1089,Jennifer,Jones,,356,1,48.03,0
+1091,Donna,Brown,,356,1,19.89,0
+1092,Tom,Johnson,,356,1,168.75,0
+1093,jearlean,porter,,355,1,122.39,0
+1094,Ann,Mott-Smith,,34,5,331.14,1
+1095,Jackie,Shields,,355,1,94.05,0
+1097,Andrew,Bunch,,354,4,484.8,0
+1099,Renata,Wojcik,,354,1,130.94,0
+1100,Liam ,Sullivan,,354,1,51.65,0
+1101,Brenda,Edelman,Company96,354,1,98.15,0
+1103,Elizabeth,Hall,,353,1,194.76,0
+1104,leonard,pickett,,353,1,108.95,0
+1105,Christopher,Elliott,,203,4,205.48,1
+1106,Alejandra,Arenas,,353,1,30.81,0
+1107,Efrem,Canales,Company97,12,2,463.28,1
+1109,Patricia E.,Talbert Smith,,352,1,219.3,0
+1110,isela,olivas,,352,1,36.64,0
+1112,Cheryl,Gallo,,297,2,45.66,1
+1113,Anne,Harrison,,351,1,36.49,0
+1115,Henry,Rosen,,350,1,88.32,0
+1117,Kathy,Schuster,Company98,349,1,60.75,0
+1118,Bob,Karr,,349,1,37.88,0
+1119,Ikem,Ojukwu,,349,1,58.75,0
+1121,Lauren,Cumwalt,Company99,348,1,51.39,0
+1122,Gregory,Rabida,,348,1,56.18,0
+1123,MIchele,Schwarts,,347,1,59.45,0
+1124,Linda,Moussa,,347,1,49.17,0
+1125,Joseph,Potts,,347,1,45.62,0
+1126,Luis,Figueroa,,346,1,106.66,0
+1131,Tina,Eduvie,,344,5,4859.049999999999,3
+1132,James,Wolfgang,,344,1,60.62,0
+1133,Tommy,Shirley,,344,1,63.2,0
+1134,Diane,Reese,Company100,344,1,48.52,0
+1136,V. Catherin,townsend,,343,1,135.98,0
+1137,Lou ,Stallman,,189,2,113.18,1
+1138,Jonathan,Knight,Company101,343,1,134.81,0
+1139,Donald,Karp,,342,1,36.35,0
+1140,Curtis,Thompson,,342,1,51.38,0
+1141,Edward,Hamilton,,342,1,35.71,0
+1142,Linda,Beals,Company102,342,1,16.35,0
+1143,Joan,Nash,,342,1,98.15,0
+1144,Elizabeth,Wier,,342,1,168.0,0
+1145,Columbus area integrated health services inc.,health services inc,Company103,341,1,44.73,0
+1146,Janet,Tyson,,341,2,86.42,0
+1147,Rose,Jones,Company104,341,1,209.96,0
+1149,Jennalin,Wallace,Company105,341,1,40.05,0
+1151,Joel,Mann,,341,1,42.83,0
+1152,Joey,Szczepaniak,,341,1,22.11,0
+1153,Karen,Lessord,Company95,341,1,98.15,0
+1155,Roy,Remer,Company106,340,1,74.68,0
+1156,Barbara,Pushis,Company68,318,2,188.39999999999998,0
+1157,Ira,Rubin,,340,1,122.08,0
+1158,Qi,Jing,,340,1,129.9,0
+1159,Douglas,Courtney,,340,1,262.14,0
+1160,Carmen,Gamino,,339,1,39.99,0
+1161,Barbara,Halajian,,336,2,55.879999999999995,0
+1162,Maureen,Besant-Jones,,339,1,46.52,0
+1163,Mark,Schwab,,338,1,96.39,0
+1167,Carl Sipe C.O. ,Buckeye Linen,,337,1,129.9,0
+1168,Laura,Albert,Company107,336,1,27.34,0
+1170,Diane,Bryant,,335,1,27.95,0
+1172,Steven,Alexander,,334,1,39.35,0
+1174,shannon ,horsfall,,334,1,32.99,0
+1175,Harry,Marien,,334,1,106.97,0
+1176,Ronda,Heppner,,333,1,51.67,0
+1177,Diana,Paulsen,,332,1,73.65,0
+1179,robert,darreff,,332,1,120.99,0
+1181,Lesley,Miller,,330,1,27.96,0
+1182,Adrianna,Mitchell,,330,2,301.26,0
+1183,Martin,Sanders DDS,,329,1,35.6,0
+1184,Teresa,Chedwell,,329,1,75.73,0
+1186,Jacklyn,Anderson,,329,1,172.5,0
+1187,Ann,Budden,,329,1,24.9,0
+1188,Susan,Gorsen,,329,1,33.72,0
+1189,Cathreine,Bower,,329,1,74.94,0
+1190,ruth,kantrowitz,Company108,329,1,1013.75,0
+1191,Candace,Cable,,328,3,323.04,0
+1192,Doug,Horner,,328,1,130.08,0
+1193,Deborah,Tayler,Company109,328,1,87.94,0
+1195,Edgar R.,Torrico,,328,2,247.48,0
+1196,Denise,Pizzano,,327,1,146.16,0
+1197,Elaine,St.Germain,,327,1,53.88,0
+1198,Abraham,Kohen,Company110,327,1,178.96,0
+1199,Joseph,Sasen,,327,1,22.66,0
+1200,Danielle,Martin,Company111,327,1,62.28,0
+1201,Todd,Schille,,327,1,49.29,0
+1202,Florence,Beberman,,327,1,90.77,0
+1204,Martha,Gonzales,,326,1,114.99,0
+1205,Barbara,McCaskill,,326,1,71.05,0
+1208,Robert,Morgan,,326,1,1454.84,0
+1209,Thomas,Elliott,,326,1,74.95,0
+1210,Christa,Dedebant,,76,8,940.4,3
+1211,Fielder,Strain,,326,1,44.95,0
+1212,Barbara,Johns,,326,1,168.75,0
+1213,Steven,Melesen,,325,1,134.81,0
+1214,Stoyanka,Vranesevich,,325,1,67.15,0
+1215,Lori,OBrien,,306,2,204.63,1
+1216,Gloria,Winfree,,324,2,186.48,0
+1217,Jean,Koznarek,,324,1,98.25,0
+1218,Martha,Stokes,,324,1,39.94,0
+1219,Shirley,Cavaleri,,324,1,49.15,0
+1220,Phyllis,Taylor,,323,1,47.94,0
+1221,Tansy,William,,323,1,62.1,0
+1222,Sandra,Brackney,Company112,323,1,62.1,0
+1223,Vilene,Meyer,,323,1,69.0,0
+1224,Rachel,Jones,,323,1,134.81,0
+1225,Charlene,Dye,,322,1,47.94,0
+1226,Santosh,Tandon,,322,1,75.73,0
+1228,Kenneth,Wingett,,322,1,163.13,0
+1230,Rita,Salzman,,322,1,49.03,0
+1231,Nyanru,Chen,,321,1,120.02,0
+1233,William,Johnson,,321,1,73.14,0
+1234,Aaron,Mangum,,321,1,63.2,0
+1235,H N,Lacefield,,321,1,47.94,0
+1236,Katie,Martin,,320,1,25.74,0
+1237,Kerry,Harrison,Company113,309,2,111.74,1
+1238,Mary Alise,Mortensen,,320,1,99.0,0
+1239,Isaiah,Capanang,,320,1,64.46,0
+1240,Ruth,Reade,,320,1,127.99,0
+1241,Kim,Underdahl,,320,1,105.39,0
+1243,Joniffer,Wee,,319,1,28.33,0
+1244,tomas,anderkvist,,319,1,142.08,0
+1245,margaret,benson,,319,1,139.99,0
+1246,Rudy,Valens,,318,1,107.09,0
+1248,Tina,Jennings,Company114,318,1,62.05,0
+1249,Emily,Smolik,,318,1,35.19,0
+1250,Danny,Klatt,Company115,318,1,37.36,0
+1251,Tom,Singleton,Company116,317,1,37.36,0
+1253,Candy,Thomas,,317,1,63.67,0
+1254,Marty,Rogers,,316,1,22.66,0
+1256,Nancy,Lebron,,316,1,58.24,0
+1257,Tama,Babcock,,316,1,139.99,0
+1259,Victoria,Zurm,,316,1,100.79,0
+1260,Phillip ,Pate,,316,1,28.33,0
+1261,David,Penza,,316,1,115.25,0
+1263,Loreto,Torres,,316,1,22.66,0
+1264,Indira,Kavirajan,,316,1,33.99,0
+1266,Mulumebt,Gebremichael-asfaw,,315,1,122.54,0
+1267,Nancy,Conner,,315,1,139.99,0
+1268,Bob,Fowler,,315,1,129.9,0
+1269,Richerd,Griffin,,315,1,40.88,0
+1270,Diane,Bratt,,314,1,36.96,0
+1271,Don,Zimmet,,314,1,78.94,0
+1272,Maria Tereca,Baula,,313,1,169.99,0
+1275,Arlene,Salmonson,,313,1,176.52,0
+1276,Rosemary,Parsons,,313,1,28.53,0
+1277,Sergio luiz,moreira JordÌÄ®ÕÌâå£o,,312,1,164.56,0
+1278,elizabeth,roussel,,312,1,106.66,0
+1279,Evelin,frimpong,,312,1,41.85,0
+1280,Howard,Blair,,311,1,28.06,0
+1281,Lorraine,Heali-Russels,,311,3,297.51,1
+1282,Jean,Schiltz,,310,1,126.03,0
+1283,Nicolle,Ritchey,,310,3,744.9300000000001,1
+1284,Craig,Gobillot,,309,1,35.69,0
+1286,David,Cislo,,309,1,22.66,0
+1287,jay,dutson,,308,1,104.95,1
+1288,Lee,Robinson,,308,1,166.02,1
+1289,Dawn,Goerner,,35,6,590.29,3
+1291,Doris,Bryant,,308,1,41.23,1
+1292,Family,Knight,,308,1,46.91,1
+1293,Mutsumi,Ikemoto,,307,1,177.32,1
+1294,Karen,Esquivel,,307,1,40.39,1
+1295,Shirley,Barasch,,138,2,123.62,1
+1296,Vickie,Berg,Company117,307,1,64.23,1
+1297,Jon,Scheck,,307,1,24.65,1
+1298,Glen F,Kesler,,307,1,50.55,1
+1300,Diana,Montelongo,,306,1,164.56,1
+1301,Audrey M,Pianezi,,306,1,446.25,1
+1302,Ramona,Krumpe,,306,1,126.03,1
+1303,John-Hope,Fuller,,306,1,72.23,1
+1304,Britany,Encarnacion,,306,1,111.32,1
+1305,HARUO,ARITA,Company118,98,3,334.12,1
+1306,Gorothy,Civin,,305,1,34.96,1
+1307,dale,anderson,,304,1,69.3,1
+1308,Glenn,Stancliff,,304,1,76.38,1
+1309,Lorraine,Runyon,Company119,304,2,212.88,1
+1311,Irene,Adams,,304,1,56.25,1
+1312,Janice,Swinford,Company120,304,1,33.2,1
+1313,Bill,Ables,Company121,175,4,2023.3799999999999,3
+1315,Helen,Mastrogiacomo,,303,1,69.24,1
+1316,Jean,Fairweather,Company122,303,1,34.35,1
+1317,Anne,Hawley,,302,1,114.31,1
+1318,Barbara,Hart,,302,1,138.55,1
+1319,Mariam,Arrington,,302,1,128.51,1
+1320,Sherri,McCauley,Company123,302,1,63.29,1
+1322,Janifer,Hutnall,,302,1,64.24,1
+1324,Gladys,Marfo,,302,1,68.59,1
+1325,Michael,Paris,,301,1,24.9,1
+1326,Suzanne,Stewart,,301,1,21.55,1
+1328,Willa,Walsh,,301,1,67.15,1
+1329,Gary G,McClain,,301,2,555.26,1
+1330,Meenakshi,Bove,,301,1,35.86,1
+1331,Karen,Dahn,,301,1,39.68,1
+1333,Allen,Telmanowski,,301,1,101.43,1
+1334,mustefa,mirza,,300,1,152.41,1
+1335,Chun,Won,,300,1,98.15,1
+1336,Pam,Johnson,Company124,300,1,317.33,1
+1337,Barbara J,Keefer,,300,1,127.99,1
+1338,Yesenia,Rivas,,299,1,99.55,1
+1339,Cheryl,Trammel,,299,2,198.1,1
+1340,Jan,Burroughs,Company125,299,1,149.12,1
+1342,Marian,Zazeela,Company126,298,1,36.52,1
+1343,Curtis,Nielsen,Company127,298,1,239.98,1
+1344,Barbara,Wilson,,298,1,76.38,1
+1345,Nadia,Cassagnol,Company80,298,1,27.34,1
+1346,Ted,Ritter,,298,1,44.22,1
+1347,Doris,Martin,,298,1,67.15,1
+1348,Shawniece,James,,296,1,269.44,1
+1349,Sandie,Hawkins,,295,1,139.99,1
+1350,Linda,Hawkins,,295,1,38.28,1
+1351,Shirey,Humphries,,295,1,51.94,1
+1352,RoseAnn,Reyes,Company59,27,10,10007.48,2
+1353,Linda,Dassett,,294,1,50.48,1
+1354,Katherine ,Hodges,,294,2,79.42,1
+1355,Irena,Dlouhy,,294,2,111.12,1
+1356,Pamela,Bell,,294,1,51.94,1
+1357,Leah,Strock,,294,2,170.06,1
+1358,Ada ,Spivack,,286,2,111.98,1
+1359,Timothy,Boden,,293,1,137.64,1
+1360,Vactoria,Wagner,,293,1,21.93,1
+1361,Shanti,Singh,,292,1,85.35,1
+1362,Frank,Thompson,,292,1,82.44,1
+1364,Angela,Del Rosario,,292,1,44.94,1
+1365,Cecelia,Sutton Hughes,,126,2,331.69,1
+1366,Barney,Shaw,,292,1,27.01,1
+1367,patricia,Delaere,Company128,291,1,44.11,1
+1368,Anne,Wilson,,291,1,127.99,1
+1369,Maria,Menendez Diaz,,290,1,111.0,1
+1370,Ed,Burns,,281,1,67.15,1
+1371,Carol C,Riggleman,,16,35,5428.15,2
+1372,Linds,Cox,,288,3,315.21,1
+1373,Grace,Forrester,,288,1,55.38,1
+1374,Richard,Kleva,,284,2,287.58,1
+1375,Barbara,Conn,,288,1,84.94,1
+1376,Ronald,Vaughn,,288,1,127.99,1
+1378,Mary ,Hanselman,,288,1,74.94,1
+1379,Michael,Carey,,287,1,51.94,1
+1381,Annalyn,Caytap,,287,1,164.56,1
+1382,Sandra,Gleaton,,287,1,53.28,1
+1384,Evelyn,Dolce,,286,1,136.9,1
+1385,William,Helm,,286,4,406.64,1
+1386,Paul,Connors,,286,1,126.03,1
+1387,Villet,Walker,,285,1,139.99,1
+1388,Terri,Brodritk,,285,1,104.95,1
+1389,Robin,Schreiner,,285,1,34.95,1
+1390,Sandra,Oleary,,285,2,728.6,1
+1391,Beth,Scherer,,285,1,127.99,1
+1392,Ronald,Williams,,284,1,74.75,1
+1393,Miguel,Vera,,284,1,129.9,1
+1394,Robart,Downing,,284,1,126.03,1
+1395,Judi,Carruthers,,284,1,67.15,1
+1396,Joseph H.,Hurff,,283,1,127.99,1
+1397,Dona,Bell,,283,1,76.38,1
+1399,William,Brunkow,,282,1,59.09,1
+1401,Gerry,Mullen,,281,1,115.25,1
+1402,Bill ,Gerding,,281,1,24.9,1
+1403,Amber,Love,,281,1,177.33,1
+1404,Rosie,Zuckerman,,281,1,55.45,1
+1405,John,Denman,,280,1,30.35,1
+1406,Lucinda,Quint,,280,1,61.64,1
+1407,Larry,Schmidtbauer,,280,1,135.99,1
+1409,Barbara,Bond,,279,1,48.03,1
+1410,Andrew,Welborn,,279,1,106.18,1
+1411,Jesse,copeland,,279,1,51.94,1
+1412,Dennis,Langner,Company116,279,1,114.4,1
+1413,Jennifer,Sanchez,Company129,279,1,94.02,1
+1414,Hong,Forloine,,278,1,56.32,1
+1415,Lori,Rieger,,278,1,76.01,1
+1417,Laura,Henningson,,278,1,127.99,1
+1418,Raymond,Goldstein,,278,1,82.75,1
+1419,corey ,weeks,,277,1,135.99,1
+1420,Lawrence,Chang,Company130,39,17,7330.2300000000005,2
+1421,Gregg,Wolper,,277,1,87.94,1
+1422,Michael,Butler,Company131,277,1,99.22,1
+1423,MARIETTA,CAPRA,,277,1,164.56,1
+1424,Jaclyn,Cimino,,276,1,85.34,1
+1426,alondra,valle,,275,1,164.56,1
+1427,Jerry,Hamblin,,275,1,100.79,1
+1428,sue,lewis,,275,1,88.63,1
+1429,Michael,Davidson,Company132,275,1,78.94,1
+1431,Joseph,Barnes,,274,1,58.24,1
+1432,Lorraine,Bowerfind,,274,1,126.03,1
+1433,bi,sa,,274,1,42.98,1
+1434,Jeanette,Styers,,274,1,26.51,1
+1436,Donna,Carter,,274,1,58.24,1
+1437,Susan,Richardson,,274,1,99.51,1
+1438,Joseph,Mattera,,274,1,75.93,1
+1439,Jerry,Priar,,273,1,171.25,1
+1441,Robert,Majewski,,273,1,94.45,1
+1442,Marc,Ollivier,,273,1,30.83,1
+1443,Sheryl,Redding,,273,1,51.59,1
+1445,ERNESTO,LARDIZABAL,Company57,272,1,40.4,1
+1446,Todd,Spare,,272,1,114.3,1
+1447,Irene,Gresick,,272,1,65.14,1
+1452,violet,battaglia,,271,1,74.75,1
+1453,Stanley,Boyd,,271,1,129.99,1
+1454,Ralph,Clevenhagen,,267,2,488.42999999999995,1
+1455,Lindley,Pontislet,,270,1,67.15,1
+1456,Chanel,Haymon,,270,1,44.13,1
+1457,NAOMA,GRINER,Company133,270,2,462.46,1
+1459,BETTY,Warner,,267,3,414.33000000000004,1
+1460,Susan,Miller,,268,1,114.16,1
+1461,Kelli,griffin,,267,1,36.65,1
+1462,Katalin,Noel,,267,1,151.19,1
+1463,Linda,Reinhardt,,267,1,25.93,1
+1465,Elaine,Seguer,,267,1,155.0,1
+1468,Rebecca,Nance,,267,1,90.16,1
+1470,Margaret,Lindsey,,266,1,210.24,1
+1471,Susan,Method,,266,1,43.34,1
+1472,Steven,Devine,,266,1,67.14,1
+1473,Kim,Stanton,,266,1,228.8,1
+1475,Elise,Lonnee,,266,2,213.26,1
+1477,Stephanie,Hayes,,265,1,74.93,1
+1478,Roger,Chriscoe,,265,1,40.1,1
+1479,Charles,Dalton,,265,1,114.99,1
+1480,dolores,kosciusko,,265,1,76.38,1
+1481,Teresa,Butler,,264,1,34.72,1
+1482,Terri,Woodside,,264,1,127.99,1
+1483,kelley,kalafatich,,264,1,100.25,1
+1485,Bill,Bennett,,264,1,112.68,1
+1486,Betty,Pendleton,,263,1,21.95,1
+1488,Henry,Darlington,,263,2,382.34,1
+1489,William,McGowan,,263,3,298.40999999999997,1
+1491,Ruth,Jarvis,,263,1,36.04,1
+1492,Lyabo,Yusuf,,263,1,192.94,1
+1493,Elizabeth,Gorbett,,263,2,224.08,1
+1494,Schivonne,Bishop,,262,1,60.44,1
+1495,Robert,Satterfield,,262,1,58.75,1
+1496,Donald,Ricky,,262,1,33.71,1
+1497,VERLIE,GREENER,,262,1,121.8,1
+1498,susan,galipeau,,262,1,118.11,1
+1499,Wen L,Chin,,262,1,127.99,1
+1500,Patricia,Prudhomme,,262,1,142.59,1
+1501,Krisila,Foster,,261,1,98.62,1
+1502,Linda,Barkwill,,261,1,106.08,1
+1503,janet,zeanah,,261,2,233.68,1
+1504,Jan,Hibbitts,Company134,260,1,139.99,1
+1505,Alice,Anthony,,260,1,76.38,1
+1506,Claire,Crowder,,260,2,508.7,1
+1507,Judy,Swartz,,260,1,107.28,1
+1508,william,rogers,,260,1,127.99,1
+1509,Nancy,White,,260,1,24.65,1
+1510,Jane,Shepherd,,260,1,118.11,1
+1511,PJ,Nassi,Company135,237,2,108.67999999999999,1
+1512,Anthony,Fripp,,259,1,127.99,1
+1513,Amanda,Curry,,259,1,32.35,1
+1514,peiggy,pibbs,,259,1,38.94,1
+1515,Joseph,Farmer,Company16,259,1,100.74,1
+1517,John,Oyer,,258,3,443.61,1
+1518,Barbara Ragland,/Kitchen Nutrition Services,Company136,134,3,386.83000000000004,1
+1519,Jose,Trevino,,257,1,24.99,1
+1520,Potu,Rao,,258,1,99.0,1
+1521,Arthur,Levy,,258,1,40.4,1
+1523,James,Allen,,258,1,127.99,1
+1524,fred,bartelt,Company137,258,1,124.74,1
+1525,Jose,Alvarez,Company138,257,1,218.7,1
+1526,Elaine,Kear,,257,1,137.94,1
+1527,JUDY,BRETT,,257,1,128.99,1
+1528,Mary,Schick,,256,1,50.4,1
+1529,Susan,Sonnevil,,256,1,137.94,1
+1531,Grace,Velasco,,256,1,137.94,1
+1532,George,Mount,,256,1,40.4,1
+1533,Monty,Ferbert,Company139,102,5,386.38,1
+1534,Marcile,Lawless,Company140,256,1,63.22,1
+1535,Kay ,Davidson ,,256,1,129.9,1
+1536,michelle,sutton,Company141,256,2,243.78,1
+1537,Rajeev,Gopinathapillai,,256,3,398.09999999999997,1
+1538,Margaret,Miller,,256,1,108.95,1
+1539,Barbara,Wiggins,,255,2,110.44,1
+1541,Robert,Markkland,,252,1,168.75,1
+1542,Maigan,Sims,,254,1,76.89,1
+1544,Jennifer,Beard,,254,1,74.34,1
+1545,Barbara,Lindsey,,254,1,171.92,1
+1546,Angela,Bowlinger,,253,3,453.96,1
+1550,Susan,Hamm,,252,1,71.52,1
+1551,Gina,Growden,,252,2,494.06,1
+1552,Rosemarie,Pagneto,,251,1,49.14,1
+1553,Jeanette,Robinson,,251,1,119.04,1
+1554,sandra,landeros,,251,1,137.94,1
+1555,Michael,Kilionski,,251,1,101.3,1
+1556,Robert,Hochberg,,251,1,142.54,1
+1557,John,Gieson,,251,1,37.99,1
+1558,Ronaled,freeman,,251,1,22.54,1
+1559,Margaret,Mclain,,251,1,78.94,1
+1560,Jessica,Spivey,Company142,251,1,37.31,1
+1561,Kami,Suerim,,250,1,79.21,1
+1563,Chris,Kwiecien,,174,2,151.28,1
+1564,DOUG,OLSON,,250,1,392.75,1
+1565,Dawn,Espino,,250,1,24.58,1
+1566,Kathy,Merkle,,250,1,131.54,1
+1567,Evelyn,Roberts,,105,2,90.18,1
+1568,Monica,kalvelage,,250,1,116.45,1
+1569,Susan E,Moyer,,249,1,51.84,1
+1571,Martha,Albarado,,249,1,76.89,1
+1572,Floyd,Miller,,249,1,221.25,1
+1573,Ana,Rivera Rodriguez,Company143,249,1,65.45,1
+1575,Annette,LaBarbiera,Company126,248,1,27.17,1
+1576,Jennifer,Pfiester,,247,2,490.36,1
+1577,William,Gula,,247,1,42.94,1
+1578,Linda,Rich,,247,1,154.15,1
+1579,PHILIP,MORGAN,,138,3,179.75,1
+1580,Mari,Akobian,,139,3,121.26,1
+1581,vera,tsikhanovskaya,,246,1,38.27,1
+1582,John,Mauro,,245,1,25.07,1
+1583,Mary Jane,Schnabel,Company144,244,2,603.1,1
+1584,Anne,Burke,,244,1,71.52,1
+1585,Linda,Craven,,244,1,50.4,1
+1586,mack,crawford,,244,1,77.99,1
+1588,John,Eisenhauer,,243,1,106.66,1
+1589,ann,martin,,242,1,52.87,1
+1590,James,Lee,,242,1,100.95,1
+1591,John,Pitts,,242,1,54.14,1
+1593,Carl,Copeland,,242,1,127.99,1
+1594,Harry,Davis,,242,1,82.83,1
+1595,Donna,Barnes,,57,4,430.91999999999996,1
+1596,Carol,Mitchell,,242,1,82.69,1
+1597,Hanh Q,Pham,,242,1,50.55,1
+1598,Patricia,Levine,,241,1,25.79,1
+1600,Michael,Frost,,240,1,43.21,1
+1601,Tracy,Norris,,240,2,253.74,1
+1602,Carol,Worthy,,240,1,159.14,1
+1603,Isaac,Ancona,,239,1,87.94,1
+1604,Thomas,Forbes,,239,1,164.56,1
+1605,James,Vasquez,,238,1,49.71,1
+1607,Gus,Spiel,,239,1,83.54,1
+1608,Frank,Ramirez,,239,1,128.34,1
+1609,Ernestine,Ngam,,239,1,39.47,1
+1610,Christan,Peters ,,239,1,71.52,1
+1612,Frazier,Williams,,238,1,100.95,1
+1613,amy,hazen,,238,1,136.59,1
+1614,Elaine,engh,,238,1,21.11,1
+1615,Victoria,Jones,,238,1,23.58,1
+1616,Jeffrey,Emerson,Company145,19,27,8530.279999999999,2
+1617,Meselina,Garcia,Company146,205,2,76.3,1
+1618,Cynthia,Acott Thurman,,237,1,134.78,1
+1619,Tracey,smith,,43,3,492.53,1
+1620,Marilyn,Hartnett,,237,2,125.44,1
+1621,P,Cockrell,Company147,236,1,93.14,1
+1622,Shirleyan,Johnson,Company148,236,1,107.09,1
+1623,Richard,Cooper,,236,1,33.45,1
+1624,Susan,Johnson,,236,1,61.15,1
+1626,Gerald,reiman,,223,2,49.8,1
+1627,Natalia,Neal,,235,1,150.56,1
+1628,Matt,Matheson,,235,1,49.14,1
+1629,Joseph,Wieber,,235,1,66.38,1
+1630,Leslie,Ociesa,Company149,235,1,100.95,1
+1631,Maryann,Carig,,235,1,164.56,1
+1633,Phyllis,Jones,,234,1,62.86,1
+1634,Leroy,Martinez,Company150,234,1,71.04,1
+1635,Marvin,Cotton,,233,2,105.7,1
+1636,Pat,Bocek,Company151,231,1,192.4,1
+1637,Christina,Kimbrough,,230,1,61.25,1
+1640,Stuart,Mazzoli,,230,1,42.84,1
+1641,Debbie,Walsh,Company152,228,1,101.41,1
+1642,Deborah,Vermette,,228,1,63.94,1
+1643,Carolyn,McDermott,,155,2,218.38,1
+1644,Jeanetta,Harris,,228,1,129.53,1
+1645,winnie,ellazar,Company153,227,1,39.91,1
+1646,Erica,Giblin,,216,1,157.52,1
+1647,Anoula,McCarren,Company154,224,1,225.36,1
+1648,Knox,Sped,Company155,224,1,13.59,1
+1649,William,Budde,,224,1,134.78,1
+1650,Anneliese,Erickson,,224,1,47.1,1
+1655,Kelly,Battell,Company156,223,1,301.5,1
+1656,Bonnie,Beiseker,,223,1,78.94,1
+1657,patricia,"o""donnell",,223,1,54.35,1
+1658,Melody,Stewart,,223,1,95.38,1
+1659,Alice,Bogart,,223,1,47.49,1
+1660,Edwin,Goff,,222,1,51.7,1
+1661,Susan,Heiser,,222,1,52.27,1
+1662,Claudia,Seeliger,,222,1,76.21,1
+1663,Doris,Villandry,,222,1,104.8,1
+1665,Mustafa,Sakerwalla,,221,1,134.21,1
+1667,James,Lemasters,,221,1,35.95,1
+1668,Tommy,Manning,,221,1,51.74,1
+1669,Cheryl,Street,,221,2,212.16,1
+1670,Rosella,Weaver,Company157,221,1,87.46,1
+1671,Leon,Howell,,221,1,50.49,1
+1672,Gloria,Murdock,,221,1,107.98,1
+1674,Hazel,Mitchell,,220,1,100.95,1
+1675,Wallace,Kaserer,,220,1,20.31,1
+1676,Martin,Ellenby,,220,1,40.4,1
+1677,shery,FIGUEROA,,219,1,25.43,1
+1679,A.J.,de Marcay,,41,2,73.81,1
+1680,elizabeth,zacharczyk,,219,1,54.55,1
+1682,Jane,Zimmerman,,219,2,289.98,1
+1683,robert,newbegin,Company73,218,1,49.14,1
+1684,Ida,Harvey,,176,2,247.95999999999998,1
+1686,Eileen,Wright,,218,1,44.5,1
+1688,Jerrell,Terry,,218,1,46.35,1
+1689,Randal,Cowart,,217,1,45.41,1
+1691,Louise,Ochocki,Company158,217,2,193.16,1
+1692,Edward,Spinucci,,217,1,35.43,1
+1693,Leslie,Dovell,,217,1,32.49,1
+1694,David McCabe,Craigie,,216,1,248.83,1
+1696,james,eastley,,216,1,44.14,1
+1698,Alphonsine ,Conolly,,216,1,117.17,1
+1703,Jennifer,Knipp,,214,1,164.56,1
+1704,Dorothy,Auer,,214,1,83.54,1
+1706,Douglas,Katko,,214,1,39.92,1
+1708,Julie,Evers,,213,1,32.49,1
+1709,Thomas,Melton,,212,1,38.75,1
+1711,Brian,Gunsch,,211,2,202.0,1
+1713,steve ,fry,,211,1,55.99,1
+1714,Marc,Schrier,,210,2,245.34,1
+1715,Thomas,Helbig,,210,1,33.22,1
+1716,Mae,Mcnichols,,209,1,128.34,1
+1717,Paul,Levinson,,209,2,289.98,1
+1718,June,Markusic,,209,1,99.9,1
+1719,Donald,Farr,,209,1,70.85,1
+1721,Kevin,Wiess,,130,2,226.26,1
+1722,Lori,Pellicano,,207,1,104.95,1
+1723,Joseph,Truhon,,207,1,53.29,1
+1724,Susan,Hixson,,207,1,13.99,1
+1725,David,McConico,,204,1,182.99,1
+1726,Leigh Anne,Duncan,,205,1,99.9,1
+1727,Mohammad,Anfari,,204,1,74.41,1
+1728,Mansour,Mansour,,204,1,30.0,1
+1729,Maureen,Stewart,,203,2,102.96,1
+1730,Melissa,Burton,Company159,193,11,8452.779999999999,2
+1731,Valarie,Titus,,203,1,94.92,1
+1732,Raymond,Cloutier,Company160,203,1,69.56,1
+1733,Rose,Levan,,203,1,129.9,1
+1734,Marion,Bifoss,,202,1,48.03,1
+1735,tina,wang,Company161,154,3,508.93,1
+1736,Fred,Bigler,,202,1,87.15,1
+1737,Sherry,Guthrie,Company162,201,1,100.34,1
+1738,Cindy,Schell,,201,1,63.37,1
+1739,Rebecca,Admire,Company163,201,1,155.0,1
+1740,martin,Zwick,Company164,201,2,1307.48,1
+1741,Debi,Martinez,Company165,34,8,944.11,3
+1742,Joseph,Shelby,,200,1,123.18,1
+1743,Harlan,Juster,,199,1,155.49,1
+1744,William,Ausman,,199,1,15.11,1
+1745,Maria,Pino,,197,1,63.77,1
+1746,DOROTHY,PETRY,,196,1,103.46,1
+1747,Barney,Pickard,,197,2,222.12,1
+1748,Cheryl,Morgan,,197,1,70.87,1
+1749,Kathleen,Van Haute,Company166,197,1,93.31,1
+1750,Rose,Madden,,197,1,143.97,1
+1751,Betty,Hutshinon,,197,1,87.94,1
+1752,Stella,Joauanis,,196,1,94.86,1
+1756,JEREMY,LOPEZ,,196,1,77.42,1
+1757,David,Noyes,,195,1,77.42,1
+1758,Michael,Norman,Company116,195,1,23.55,1
+1759,Kathleen,Kuhn,,195,1,124.2,1
+1761,Mario,Gonzalez,,165,4,269.96000000000004,1
+1762,Clifford,Burke,,195,1,133.34,1
+1763,patricia,helck,,194,1,164.82,1
+1766,Stephine,denkowicz,,193,1,129.99,1
+1768,Marilyn,Goldblum,,193,1,144.29,1
+1769,Bab,Fifield,,193,1,218.75,1
+1770,Rani,Khan,,193,1,38.44,1
+1771,Christine,Endicott,,191,1,151.78,1
+1772,Denny,Klesch,,191,1,77.42,1
+1773,Marvin,Konz,,191,2,225.46,1
+1774,Rivhard,Lamb,,190,1,137.92,1
+1775,Donna,Fenske,,190,1,62.06,1
+1776,barbara,murry,,48,12,2856.43,3
+1777,Victoria,oLCOTT,,190,1,129.9,1
+1779,Ronald C.,Dyer,,189,1,185.52,1
+1782,Jacquelyn,Patrick,,188,1,67.59,1
+1783,marsha,baria,,188,1,83.54,1
+1784,Norman,Pastorek,,188,1,41.08,1
+1785,Terri,Kreske,Company167,187,1,326.97,1
+1786,Katrina,Levinson,,187,1,101.01,1
+1787,samantha,vaughn,Company168,186,1,75.98,1
+1788,Sheila,Maxey,,186,1,205.03,1
+1789,allison,jacobs,Company169,185,1,37.99,1
+1790,Melody,Hagfeldt,Company170,184,2,98.36,1
+1791,Bonnie,Smith,,184,1,81.93,1
+1792,Catherine,Langdon,,183,1,67.72,1
+1794,John,Liscio,Company171,8,12,3297.56,3
+1795,dianec,coon,,181,2,122.68,1
+1796,Barbara,Canney,,182,1,55.84,1
+1797,Catherine,Lennon,,180,1,14.61,1
+1798,Barbara,Goodman,,181,1,152.05,1
+1799,Terrie,Goad,,181,1,31.26,1
+1800,Arville,Matlock,Company57,181,1,71.52,1
+1801,KARL,BENNETT,,180,1,62.51,1
+1802,Lorraine,Hottenfeller,,180,1,16.23,1
+1803,John,Agostinelli,,180,1,59.09,1
+1804,KEN,JOHNSON,Company172,179,2,1172.76,1
+1805,Eva,Lopez,Company173,180,5,3165.1,3
+1806,Michele,Callahan,Company174,179,1,273.7,1
+1807,Karen,Jones,,179,1,260.13,1
+1808,Diane,Fairchild,,179,1,151.44,1
+1810,Michael,Zayats,Company175,178,1,17.98,1
+1812,Mary,Pierson,,177,1,51.35,1
+1815,Joshua,Curtis,,176,1,57.55,1
+1816,John,Falcetano,,176,1,32.46,1
+1817,Erica,Smith,,176,1,310.05,1
+1818,veronica ,villagran ,,175,1,17.99,1
+1819,ANDREW,GOMBOS,Company176,175,1,282.45,1
+1820,Dorthy,Smith,,175,1,69.49,1
+1822,Sterilis Medical,Sterilis Medical,,175,1,130.42,1
+1823,Wilma,Chapman,Company177,175,1,107.45,1
+1824,Joseph,Sorge,,175,1,28.5,1
+1825,Kenia,Cabrera,,175,1,24.99,1
+1826,Rita,Giroux,,175,1,32.8,1
+1827,Williams,Levenson,,175,1,85.48,1
+1828,Joan,Lamb,,175,1,58.48,1
+1831,Herbert,Barringer,,173,1,95.53,1
+1837,jessica,anderson,Company178,173,1,284.95,1
+1838,Patricia,Linna,,172,1,77.22,1
+1839,Sheila,Altieri,,172,2,32.46,1
+1840,Levi,Diaz,,172,1,83.57,1
+1841,Gene,McClellan,,172,1,77.42,1
+1842,Frank,Ryan,,171,1,127.47,1
+1843,kathleen,cline,,171,1,51.94,1
+1844,jessica,cantwell,Company179,170,1,84.94,1
+1845,Daisy,White,,170,2,243.9,1
+1846,Yolanda,Taylor,,170,1,151.15,1
+1847,Beret,Norsworthy,,169,1,139.89,1
+1848,linda,clark,Company180,169,1,49.29,1
+1849,Anita,Maddox,,168,2,200.7,1
+1850,Richard,Gallagher,,169,1,34.19,1
+1852,Marry,Miller,,168,1,152.63,1
+1855,Charels,Thompson,,158,2,29.22,1
+1856,neil,michaud,,168,1,82.55,1
+1857,Luke,Ostrander,,168,1,32.13,1
+1858,Blanche Roberge,Reference# OREUSA1223786073CA,,168,1,56.12,1
+1860,Bevely,Lane,,168,1,125.94,1
+1861,Joel,Leggett,,167,1,138.29,1
+1862,DRP Timmy,Weiss,,167,1,83.59,1
+1863,Devereux,Tower,,167,1,49.09,1
+1864,Maria,Cronin,,167,1,231.94,1
+1865,carla,hernstrom,Company181,167,1,37.99,1
+1866,charles,hicks,,167,1,53.6,1
+1868,Hattie,Wiysel,Company182,166,1,225.15,1
+1869,Golde living center,Golde living center,,167,1,228.35,1
+1871,Robert,Macy,,166,1,156.16,1
+1872,Kathryn,steel,,166,1,20.21,1
+1873,Glenn,Kissinger,,166,3,360.78000000000003,1
+1874,Normin  ,armmitage,,12,3,411.02000000000004,1
+1875,Alvin,Wenner,,165,1,54.6,1
+1876,Amanda,Baker,,165,1,71.52,1
+1877,Maxwell,Lee,Company183,165,1,19.61,1
+1878,Mark,Mazzei,Company184,165,1,199.41,1
+1879,Betty,Schoenbaum,,164,1,68.84,1
+1880,Marry ,Howard,,164,1,319.32,1
+1881,Allen,Kirby,,164,1,68.9,1
+1882,Charles,Harris,,164,1,16.23,1
+1883,Patrucia,Gainey,,164,1,92.48,1
+1884,al,leckel,Company185,163,1,27.45,1
+1885,Chris,Loeffler,,163,1,81.48,1
+1886,kathie,gray,,163,1,75.86,1
+1888,Pearlie,Mercer,,162,1,49.71,1
+1889,Dennis,Fleming,,162,1,177.95,1
+1890,Richard,Gramm,,162,1,32.46,1
+1891,Harold,Mayo,,162,1,212.33,1
+1892,Maria Flordeliza,buizon,,162,1,293.75,1
+1893,Olga ,Ortiz,,161,1,134.15,1
+1894,James,Lessenger,,161,1,19.95,1
+1895,Maryjane Zimmermann/,Elizabeth Schmidt,,161,1,56.18,1
+1896,Lance,Chrysler,Company186,161,1,84.69,1
+1897,Birtane,Dogrukol,,23,2,572.5899999999999,1
+1898,Frank J,Peugh,,161,1,89.02,1
+1900,Sheila ,Carpenter,,160,1,29.08,1
+1901,Jaimi,Jansen,,160,2,2912.0,3
+1902,Kasey,Schroeder,,160,1,44.03,1
+1903,Claire,Lincoln,Company187,160,1,144.2,1
+1904,Kate,Delsignore,,160,1,121.92,1
+1906,Louis,Pritchett,,160,1,16.23,1
+1907,FRANK,MITCHELL,Company188,160,2,116.64,1
+1908,nancy ,stafford,,160,1,129.9,1
+1909,Marvin,Luzum,Company189,160,1,68.31,1
+1910,Cheryl,Alfano,Company190,159,1,286.25,1
+1911,Herbert,Lederer,,159,1,235.86,1
+1912,Micheal,Ollsen,,159,2,58.54,1
+1913,Maude,McGraw,,159,1,37.99,1
+1914,Donald ,Golighely,,159,1,45.22,1
+1915,Lisa,Sworyim,Company191,159,1,148.0,1
+1916,Patricia,Dunbar,,159,1,70.52,1
+1917,Edwin,Perry,,159,1,56.25,1
+1918,Rick,Armitage,,159,1,2031.93,3
+1919,Amy,Pickett,Company192,159,1,13.72,1
+1920,Nikki,Peterson,Company193,159,1,66.04,1
+1921,Merle,Emmons,,158,3,2345.31,3
+1922,Kimmy,Rose,,158,1,158.05,1
+1923,Monica,Williams,Company194,158,2,205.32,1
+1925,Janice,Cyr,,158,1,168.75,1
+1926,James,Sunquist,,124,2,1040.85,1
+1927,goldie,Leizear,,156,1,75.19,1
+1928,Harold,Rosenthal,Company195,156,1,36.39,1
+1929,Thomas,Cichowicz,,85,4,1750.44,3
+1930,Jody,Korves,,156,1,19.61,1
+1931,warren,ripley,,156,1,62.47,1
+1933,George,Hendricks,,90,2,151.5,1
+1934,Howard,Wohlmuth,,155,1,74.41,1
+1935,Deborah,Schindele,,155,1,96.41,1
+1936,Debra,Chisholm,,155,1,72.54,1
+1937,Don,Albert,,155,1,148.19,1
+1938,Wanda,Farmer,,155,1,37.99,1
+1939,Emani ,Mency,,154,1,60.05,1
+1940,Regina,Coburn,,154,1,77.55,1
+1941,kathi,Payne,,154,1,138.29,1
+1944,Al ,maciejewski ,,154,1,16.23,1
+1945,JANET,CUMMINGS,,154,1,68.47,1
+1946,Honora,Kahn,,122,3,232.13,1
+1947,Joseph,Cipriano,Company196,154,1,81.02,1
+1949,Aaron,Katz,,153,1,41.36,1
+1950,Max,Westbay,,153,1,158.05,1
+1951,Clarence,Roseman,,140,2,128.62,1
+1952,Shahbazian,Clodiya,,153,1,107.01,1
+1954,Owen,Cagle,,152,1,70.67,1
+1955,Margaret,Twaddle,,151,1,34.59,1
+1956,Thomas,Earley,,151,1,33.2,1
+1958,Charels,Black,,151,1,34.05,1
+1959,Farman,Eli,,151,1,655.0,1
+1960,ANDY R,LOPEZ,Company197,151,1,26.23,1
+1961,Elizabeth,Fleming,,151,1,53.53,1
+1962,Hilary,Koski,,151,1,30.29,1
+1963,CAROL,MELBER,,151,1,74.41,1
+1964,Luis,Caslae,,150,1,97.07,1
+1965,Gloria,Kolarik,,150,1,21.57,1
+1966,Edward,Kaplin,,150,2,1006.88,1
+1967,clifford,shapiro,Company198,150,1,165.0,1
+1968,Sylvia,Shinberger,,150,1,45.09,1
+1969,Peggy A.,Wolford,,150,3,871.17,1
+1970,Lisa,Muchlinski,Company199,150,1,290.98,1
+1971,Francis J,Kornowski,,150,1,70.87,1
+1972,Jodi,Eaden,,150,1,33.2,1
+1973,Raymond,Kestner,,149,1,28.81,1
+1974,Donald W,Carl,,149,1,27.93,1
+1975,Dortha,McConnell,,149,1,33.2,1
+1977,Sara,Steinmetz,,149,1,35.33,1
+1978,Bruce,Cummings,,149,1,18.44,1
+1979,James,Golding,,149,1,25.26,1
+1980,Walt,Willis,,149,1,33.89,1
+1982,TERESA,SALCEDO,Company200,124,2,114.07,1
+1984,Petrica,Dodd,,148,2,212.64,1
+1985,Michelle,lakin,,148,2,87.28,1
+1986,Dolapo,Ogunsanlu,Company201,148,1,39.92,1
+1987,James,Nielander,,147,1,51.19,1
+1988,James,Swanson,,147,1,267.45,1
+1989,Nina,kaplan,,147,1,52.16,1
+1990,Mark,Gibbons,Company57,147,1,30.67,1
+1991,Stephen,Levitt,,34,5,660.84,1
+1992,David,Holmes,,147,1,16.23,1
+1993,Julia,Vangelakos,,147,1,150.23,1
+1994,George,Boober,,147,1,32.46,1
+1995,Colin,Perkins,,147,1,86.58,1
+1996,Lashawn,Hester,,11,5,892.18,3
+1997,Ray,Martinez,,147,1,78.94,1
+1998,Charlopte,Wilaby,,147,1,52.73,1
+1999,Lynn,Tonelli,,147,1,22.55,1
+2000,JEANIE,TENNANT,,147,1,51.94,1
+2002,Alberta,Droddy,,146,1,282.99,1
+2003,Beatrice,Ruiz,Company202,146,1,48.72,1
+2004,Thomas ,Vereb,,146,1,129.9,1
+2005,Nancy,Hayes,,146,1,158.91,1
+2007,Carol,Chaney M.D.,,146,1,64.89,1
+2008,john,Kim,,146,1,23.08,1
+2009,Gail,Buzzo,,146,1,33.2,1
+2010,Jason,Manning,,146,1,84.94,1
+2011,Rebecca,Marks,,146,1,119.24,1
+2012,Emil,Lipscomb,Company203,146,1,58.14,1
+2013,Sam,Levin,,137,2,70.4,1
+2014,leonard,ross,Company204,145,1,19.89,1
+2015,Bill,Holyfield,,145,1,39.88,1
+2017,Alice ,Wexler,,145,1,60.71,1
+2018,Noele,dangelo,,137,2,92.82,1
+2019,Van,Tran,Company205,145,3,287.88,1
+2020,Philip,Schember,,22,2,213.99,1
+2021,Jeff,Wicklund,Company206,145,1,38.08,1
+2022,Att. Carmella ,Monte,Company207,144,4,9502.36,2
+2023,David,Metcalfe,,144,1,28.5,1
+2024,Catherine,Fusci,,144,1,37.19,1
+2025,Olda,salazar,,144,1,64.31,1
+2027,emo,redey,,143,1,39.15,1
+2028,FE,GALENDEZ,,143,1,73.74,1
+2029,Albino,Pineiro,,143,1,58.75,1
+2030,Tzu Lu,Lin,,142,2,223.74,1
+2031,Tammy,Poitras,,142,1,49.14,1
+2032,Richard,Hill,,142,1,30.67,1
+2033,Marshelle,Stotler,,142,2,228.14,1
+2034,Sergey,Potapenko,,142,2,207.08,1
+2035,Emily,Nester,,82,2,297.48,1
+2036,marie,jones,,141,1,36.95,1
+2037,Mark,Tweddale,,141,1,69.51,1
+2038,Theresa,Chiovare,,141,6,1684.62,3
+2039,TERRY,STOCKTON,,141,1,87.94,1
+2040,Gregory,Stowe,Company208,141,1,161.82,1
+2041,Marilyn,Loyd,,141,2,353.48,1
+2042,Arthur,Wojczynski,,141,1,50.92,1
+2044,Nancy ,Doty,,141,1,55.58,1
+2045,Teresa,Cremins,,141,1,97.03,1
+2046,Sandy,Hetherington,,140,1,31.0,1
+2047,Janet,Phillips,,140,2,228.14,1
+2048,John,Clements,,140,2,228.14,1
+2050,Stuart,FitzGerald,,140,1,44.07,1
+2051,john,witcher,Company209,140,1,34.59,1
+2054,Deborah,Mostoufi,,140,1,137.98,1
+2056,Town of Brookfield ,Department of Social Service,,140,1,139.94,1
+2057,Kent,garrett,,140,1,85.42,1
+2058,Norma,Asem,,140,1,34.37,1
+2059,david,vallone,,140,1,69.65,1
+2060,STEPHEN,SHERIFF,,140,1,110.88,1
+2063,Lois,Keifer,,139,1,154.33,1
+2064,Sarah,Miozzi,,140,2,80.96,1
+2065,Will,Sanders,,140,1,177.33,1
+2066,Ari,Feinstein,,140,4,354.08,1
+2068,Albert,Bonin,,140,1,33.98,1
+2069,Ricardo,Nigaglioni,,139,1,16.23,1
+2071,Karol,Zellefrow,,139,1,228.7,1
+2072,Betty,Emanuel,,139,1,67.59,1
+2073,Jean,Beaumariage,,139,2,203.62,1
+2074,Lynn,Leibowitz,,139,1,19.88,1
+2075,Thomas,Hitchcock,Company210,139,2,300.18,1
+2076,CHRISTINE,BARAHONA,,138,1,29.27,1
+2077,yocheved,Heszkel,,138,1,37.1,1
+2078,Eleanor,Turner,,138,1,78.54,1
+2079,Thomos,Ttews,,138,1,145.99,1
+2080,Nancy,Petersen,,137,1,444.0,1
+2082,Josephine,DiSanto,,137,1,79.99,1
+2083,Virginia,Creveling,,136,1,40.81,1
+2084,Teranee,Berry,,136,1,42.98,1
+2085,T. John,Thomas,,136,1,33.22,1
+2086,Blake,Davidson,,135,1,33.47,1
+2087,Maria Rosa,Celis,Company211,135,1,52.77,1
+2088,Lillian,Morrison,,135,1,134.15,1
+2089,Richard,Cline,,134,1,81.93,1
+2091,Jon,Forrest,,135,1,39.15,1
+2092,patrick,munyao,,134,1,16.79,1
+2093,Michael,Collins,,134,1,89.76,1
+2094,Rogers,Smith,,134,1,81.93,1
+2095,Frances Clark,Clark,,133,1,52.73,1
+2097,Basil,Palmeri,,133,2,708.9,1
+2098,Joyce,Davis,,133,1,29.42,1
+2100,Catherine,Palmer,,133,2,195.3,1
+2101,Ed,Dieser,,133,1,34.03,1
+2102,Richard,Mangino,,133,1,76.98,1
+2103,Paul,Hamels,Company212,133,1,23.71,1
+2104,Eric,Wright,,133,1,49.47,1
+2105,James,Olson,,133,1,445.56,1
+2106,bubba,morris,,133,1,23.95,1
+2107,hales Corner ,Health Department,,133,1,68.87,1
+2108,Thomas,Morris,,133,4,1474.96,3
+2109,Laura,McCracken,,133,1,36.53,1
+2111,don,cliver,,96,2,780.08,1
+2112,Ronald,Langford,Company54,133,1,484.94,1
+2113,Jacquelyn,McElduff,Company213,133,1,103.49,1
+2114,Aaron,Bettis,,132,1,57.46,1
+2116,David,Harris,,132,1,106.81,1
+2117,Berta,Archar,,132,1,23.51,1
+2118,Adam,Pooch,,132,1,211.2,1
+2119,Kari,Massengill,Company214,125,2,83.52,1
+2120,Catherine,Chillson,,131,1,58.7,1
+2121,Tywanda,Lightfoot,Company215,131,3,414.29999999999995,1
+2122,Jeff,Wesfels,,131,1,40.4,1
+2123,VIDA,KAMKAR,,69,3,268.82,1
+2124,isaac ,S,,131,1,135.99,1
+2126,Darrell,Horne,Company216,131,1,38.95,1
+2127,MICHELE,EDNOCK,,131,2,931.8,1
+2128,Henrietta,Sbecnel,,130,1,61.15,1
+2129,Javier,P Herrera,,130,1,31.65,1
+2130,Kevin,Kamauf,Company217,130,1,38.23,1
+2132,Courtney,Flockerzie,,130,1,142.78,1
+2133,Cathy,Waterloo,Company218,129,5,1358.0,3
+2135,Jane,Sawvell,,119,3,254.16,1
+2137,Gerry,Stombs,,130,1,23.95,1
+2138,John,Price,,130,1,28.67,1
+2139,sarah,craven,,11,2,141.74,1
+2140,Sandra,Wakefield,,130,1,42.46,1
+2141,Valerie,Mcmullen,,124,2,32.4,1
+2142,JOHN,RAMSEY,,129,1,70.74,1
+2143,Joxeph,DePauw,,117,1,180.14,1
+2145,Elaine,Korecky,,129,1,177.84,1
+2146,Elaina,Martinez,Company219,129,1,42.58,1
+2148,karen,murphy,,129,1,68.9,1
+2149,Nick,Fiedler,,129,1,62.39,1
+2150,Danielle,den Hartog,,129,1,44.05,1
+2151,joanne,boston,,129,1,31.0,1
+2152,Nathan,Call,Company220,128,3,372.78999999999996,1
+2153,amy,radevski,,129,1,75.31,1
+2156,Jean,Readman,,91,1,99.99,1
+2157,Gustavus,Williams,,128,1,43.65,1
+2159,Dave,Hetz,,127,1,60.49,1
+2160,Margarette,Catalano,,127,1,15.19,1
+2161,Michael,Vizard,,127,1,95.51,1
+2162,Dollie,Twigg,,127,1,155.9,1
+2163,Lorel D.,"Ferrin, MBA",,127,1,57.48,1
+2164,Samuel R ,Crockett,,126,1,226.0,1
+2165,Julie,Reynolds,Company221,126,1,60.0,1
+2166,James,Everitt,,126,1,145.99,1
+2167,Steve,Hartmen,,126,1,21.23,1
+2168,Charles,Young,Company222,126,2,228.28,1
+2169,richard,derrick,Company223,126,2,234.62,1
+2170,Carol,Einwalter,Company224,126,1,30.67,1
+2171,Donna,Shoap,,117,2,122.3,1
+2172,Gunter,Blum,Company225,126,1,23.97,1
+2173,Mark,Laidre,,126,1,234.95,1
+2174,Martin,Stolbun,,125,1,296.77,1
+2175,John,Besel,,125,1,25.71,1
+2181,Issie,Dunlevy,,125,1,23.5,1
+2182,Eugene,Frazier,,125,1,25.0,1
+2183,John,Umsteadt,Company226,125,1,38.51,1
+2184,Regina ,Goldman,,125,1,46.72,1
+2185,ATT. Robyn,City Maintenance Supply,,125,1,410.0,1
+2186,Trinh,Nguyen,,116,2,422.4,1
+2187,James,Burkette,,125,1,39.11,1
+2188,RENE,HORTON,,125,1,34.56,1
+2189,Kris,Schwenkmeyer,,121,2,48.69,1
+2190,Cynthia,Watkins,,125,1,23.74,1
+2191,Regan,Webb,,125,1,33.98,1
+2192,Tony,Rusch,,57,2,801.16,1
+2193,Sylvia,Orozco-Vaca,,124,1,119.95,1
+2194,miguel,luna,,124,1,69.96,1
+2195,brenda,wilson,,124,1,37.99,1
+2196,Larry,Fleenor,,124,2,234.62,1
+2198,Eric,Espinoza,,124,1,42.98,1
+2199,Gerry,Vosburg,,124,1,50.4,1
+2200,Gwen,Holmes,,123,1,18.2,1
+2201,Line,Clerveau,,123,1,53.69,1
+2202,Annmarie,Cox,,123,1,83.49,1
+2203,Terri,Kuhn,,123,1,30.69,1
+2205,Donna,Starr,,123,1,29.33,1
+2206,edward,aguinaldo,,123,1,185.23,1
+2207,Lindsay,Wilson,,123,1,104.13,1
+2208,Jeannie,Shepherd,Company227,123,2,414.68,1
+2209,Queata,Jackson,Company228,123,1,65.96,1
+2210,Roger,Monroe,,122,1,37.02,1
+2211,Melissa,Kinzie,Company229,122,1,258.7,1
+2212,Teresa,Joslin,,122,1,65.99,1
+2213,Richard,Smalling,,122,1,165.33,1
+2214,Eric,Knight,Company230,122,1,233.82,1
+2215,Joy,Kohout,,121,2,112.78,1
+2216,DALE,Shammo,,121,1,23.69,1
+2217,Andrew,Wolgamott,,121,1,145.22,1
+2219,Peggy,Doman,,121,1,48.73,1
+2221,Jose,Fuentes,,121,2,225.76,1
+2222,Pam,Merritt,,120,1,154.33,1
+2223,Mary,Baney,,120,1,456.2,1
+2224,Marshall,Robert,Company231,120,1,57.01,1
+2226,Kathleen,Schoenecker,,120,2,152.76,1
+2227,donna,hoey,,119,1,161.89,1
+2228,Valerie,Puglisi,,119,1,62.86,1
+2229,Carla,Parker,,119,1,109.4,1
+2230,Amy,Good,,119,1,76.24,1
+2231,Lisa,Morse,Company232,119,1,70.85,1
+2232,irene,babson,,119,1,40.4,1
+2233,Laurie,Rys,Company233,119,1,135.94,1
+2235,Raymond,Burke,,119,2,234.62,1
+2236,Jenni,Hansen,,119,1,27.0,1
+2237,debbie,hosey,,119,2,159.98,1
+2238,Shirley,Ruehrwein,,1,3,215.98,1
+2239,Laura,Palacios,,119,1,462.13,1
+2240,Susan,Muno,,118,1,76.24,1
+2241,Diana,Mcnatt,,118,1,68.9,1
+2242,Scott,Newton,,118,1,36.47,1
+2243,Glenn,Leboeuf,,111,2,197.24,1
+2244,Rose Ann,Kline,,118,1,34.59,1
+2245,Mae,Hardt,,118,1,16.23,1
+2246,Keri,Lehmann,Company234,118,2,203.9,1
+2247,Kathy,Headden,,118,2,110.94,1
+2249,Carol,Starling,,118,1,74.27,1
+2250,richard,welch,,118,1,119.98,1
+2251,carol,SKILLING,,118,1,19.47,1
+2252,michelle,horan,,118,1,75.36,1
+2253,Jim,Garner,Company235,112,2,92.1,1
+2254,george,nelson,,118,1,47.94,1
+2255,Jeanice,Davis,,118,1,129.99,1
+2256,Barbara J,Hanselman,,118,2,162.98,1
+2257,Christina,Attanasio,,117,1,211.2,1
+2258,Victoria,Anderson,,117,1,36.75,1
+2259,Kenneth,Andrews,,117,1,108.91,1
+2260,Brett,Waddle,,117,1,62.99,1
+2261,Christopher,Amoah,Company236,117,1,39.34,1
+2262,Sister Stella,Maria,Company237,117,1,74.93,1
+2263,harry,hackelman,,117,2,524.96,1
+2264,Amelia,Orth,,117,1,21.92,1
+2265,James,Noe,Company238,117,1,40.4,1
+2266,Robert,Tanner,,117,1,54.45,1
+2267,Brent,Whitehead,,116,1,18.42,1
+2268,Cheryl,Carasone,,116,1,59.07,1
+2269,Anne,Kong,,116,5,487.25,1
+2270,Marsha,McClure,Company239,116,2,495.72,1
+2272,MARJORIE,WOOLMER,,80,6,674.94,3
+2273,Lynn,Betz,Company240,115,1,34.53,1
+2275,michelle,allen,,115,1,169.51,1
+2277,Grace,Hanson,,115,1,156.84,1
+2278,L,Stern,,114,2,78.28,1
+2279,Verlin,Pitt,Company241,114,1,81.02,1
+2280,Sheila,Hayden,,114,1,38.41,1
+2282,GELU,NARTEA,,114,1,70.85,1
+2283,Rene,Haley,,114,1,47.08,1
+2285,Marisol,Parr,,114,1,31.0,1
+2286,heather,chamblee,,114,1,28.95,1
+2287,Rosemary,Parker,,114,1,33.15,1
+2288,Brett,Neisler,,113,1,62.99,1
+2289,Ken,Rodrigues,,113,1,68.44,1
+2290,Robert,Howard,Company242,113,1,38.78,1
+2291,Marisol,Navarro,Company243,113,1,313.56,1
+2292,Emogene,Pearson,,113,1,66.02,1
+2293,rony ,mishal,Company244,113,1,174.95,1
+2294,Roy,Schuldies,,113,3,817.98,1
+2295,Jeane,Wright,,113,2,114.14,1
+2296,Virginia,Gillam,,113,1,50.38,1
+2297,Geraldine,Garrett,,113,1,55.7,1
+2298,Tatsy,Shelnutt,,113,1,143.19,1
+2299,Kristi,Holyoak,,112,1,40.25,1
+2300,Cathy,Figueroa,Company245,112,1,21.71,1
+2301,Shirley,Mcgee,,112,1,50.4,1
+2302,Tracy,Stein,,112,1,48.03,1
+2304,Marvin,Howleg,,112,1,40.4,1
+2305,Claudiu ,Aiftimiei,Company246,112,1,30.0,1
+2306,BJ,Rockington,Company247,112,1,31.53,1
+2307,Sharon,Schaffhausen,,112,1,27.9,1
+2308,Linda,Barrontine,,112,1,14.11,1
+2309,WALTER,FIECHTER,,112,1,27.45,1
+2310,Julia,Arocho,,112,1,87.45,1
+2311,Deborah,Fearnley,,112,1,16.23,1
+2312,Martin,Sandoval,Company248,112,1,22.64,1
+2313,Eugenio,Esguerra,Company249,111,1,604.95,1
+2314,Gary,Haslam,Company250,111,1,79.15,1
+2315,terry ,noullett,Company251,111,1,565.0,1
+2316,Filizi,Mathis,,111,2,196.66,1
+2317,Evelyn,Oeser,,111,1,50.05,1
+2318,Ron,Hutchison,Company10,111,1,37.99,1
+2319,Tammy,Bandeka,,111,1,18.99,1
+2320,Wiss,Costanza,,111,1,19.94,1
+2321,Eric,Beube,,111,1,182.5,1
+2322,Dennis,Taylor,,111,1,99.0,1
+2323,Janice,Sullivan,,111,2,106.08,1
+2324,Tracy,Goldrick,,111,1,29.02,1
+2325,Peter,Deeley,,111,1,57.01,1
+2326,LINDA,STALEY,,111,1,77.67,1
+2328,James ,Tucker,,111,1,77.42,1
+2329,Linda,Brandt,,111,1,77.42,1
+2330,patricia ,garvey,,111,1,24.9,1
+2331,Elizabeth,Wenzel,,110,1,99.05,1
+2332,Vicky,Cortez,,110,1,51.35,1
+2333,RHONDA,BRYAN,,110,1,21.77,1
+2334,A,Weerasekera,,110,1,16.2,1
+2335,Karen,Baxter,,110,1,49.14,1
+2336,Ed,Kuykendall,Company252,110,1,35.33,1
+2337,Pablo,Abreu,Company253,110,1,73.56,1
+2338,Edward,LaCombe,,110,1,211.2,1
+2339,Laura,Fisher,,102,3,324.65999999999997,1
+2340,Mike,Fortune,,110,1,176.67,1
+2341,Janet,Brown,,44,2,134.07,1
+2342,Linda,Hamed,Company254,110,1,60.26,1
+2343,sharon,whitten,,110,1,37.99,1
+2344,Margaret,Sanz,,110,1,164.7,1
+2345,Brigitta,Solinski,,105,2,107.2,1
+2346,Cynthia ,Lamb,,109,1,124.6,1
+2347,Mary A,Jensen,,109,1,28.61,1
+2348,Janice,Nye,Company255,109,1,172.41,1
+2349,Beverly,Wright,,109,1,70.87,1
+2350,Cathy,Wheatley,Company256,109,1,74.88,1
+2351,marianne,keyros,Company257,109,2,630.04,1
+2352,Jose,Alva,Company258,109,1,76.89,1
+2353,Gayle,Buck,,109,1,129.99,1
+2354,Erin,Halovanic,,109,1,48.45,1
+2355,Wendy,Malave,,108,1,259.95,1
+2356,Henry,Robertson II,,108,1,31.26,1
+2357,Richard,Sheltrown,Company185,108,1,79.53,1
+2360,Darryl,Miller,,108,1,79.12,1
+2361,Frederick,Golomb,,107,2,100.18,1
+2363,Douglas,Tyler,,107,1,83.45,1
+2364,Carol,Postell,,107,1,142.63,1
+2365,Lori,Mann,,107,1,70.29,1
+2366,Carl,Rickershauser,,107,1,64.97,1
+2367,Maria,Williams,,107,1,33.69,1
+2368,John,Parsons,,107,2,98.72999999999999,1
+2369,Mark,Giddens,,107,1,104.8,1
+2370,Lloyd,Rehkopf,,107,1,27.94,1
+2371,Mark,Van Voorhis,,106,1,78.73,1
+2372,Thomas,Kelly,,106,1,28.94,1
+2373,john,douciere,,106,1,241.18,1
+2374,Brandy,Clayman,,106,1,142.63,1
+2375,ALEEN,JONES,Company259,77,1,65.14,1
+2376,Megan,Batts,Company260,106,1,66.73,1
+2378,DF,Silvestro,,106,1,31.82,1
+2379,Marla,McCurdy,,105,1,29.09,1
+2380,robert,kalan,,105,1,56.47,1
+2381,Edward,Catlett,,105,1,21.87,1
+2383,Carol ,Stillman,Company261,105,1,40.74,1
+2384,Richared,Kettyle,,105,1,17.99,1
+2385,Amy,Hutchins,,105,2,285.74,1
+2386,Norman,Self,,105,1,64.95,1
+2387,ALFRED,SULLENBERGER,,105,1,36.01,1
+2388,Jessica,Collins,,105,1,53.95,1
+2389,Muriel,Robinson,,105,1,43.9,1
+2390,Kim,Taylor,,105,2,54.54,1
+2391,David,Fries,,103,2,243.33,1
+2392,Larry,Moore,,104,1,43.69,1
+2393,Lupe,Torrez,,104,1,53.6,1
+2394,Judith,Parker,,104,2,1060.8,1
+2395,Judith,Smith,,104,1,25.55,1
+2396,Deirdre,Wiggins,,104,1,46.35,1
+2397,Marjorie,Gibson,,104,1,63.73,1
+2398,James,O'Brien,,104,1,34.36,1
+2399,Barbara,Harris,,104,1,29.99,1
+2400,Travis,Duff,,104,1,19.99,1
+2402,Brenda,Wetter,,104,1,83.97,1
+2403,Candace,Hollomon,,104,2,203.16,1
+2404,Maria,Majette,,40,5,369.26,1
+2405,william ,ferrara,,103,1,385.87,1
+2406,James,Spencer S,,103,1,59.45,1
+2407,Ed,Cressy,,103,1,35.33,1
+2408,Elizabeth,mahana,,103,1,129.65,1
+2409,Jawed,Mallick,,103,1,92.88,1
+2410,Kelly,Hendrickson,,103,1,35.33,1
+2411,Barbara,Stallings,,103,1,40.4,1
+2412,Marc,Egan,,103,1,11.97,1
+2413,Deborah,Kelly,Company262,103,1,441.2,1
+2414,Cynthia,Fawcett,,103,2,401.38,1
+2415,Rose,Ray,,103,1,174.51,1
+2416,Ridgewood High School c/o ,Thomas Parrillo,,103,1,177.33,1
+2417,Janet,Bini,,102,1,59.99,1
+2418,Cludia,Stenberg,,102,1,167.71,1
+2419,Dr.Karim,Moukdad,Company263,102,1,21.33,1
+2423,Mark,McBee,,39,3,470.78,1
+2424,Analia,Juarez,,102,1,6.25,1
+2425,Nancy,Roncetti,,102,1,52.57,1
+2426,Steven,Gold,,102,1,25.14,1
+2428,kay,kirihara,,102,1,26.99,1
+2429,Leigh,Mialback,Company264,102,9,1442.61,3
+2430,C L,Hadden Fleming,,102,1,40.19,1
+2431,Patty,Rux,Company265,102,1,182.5,1
+2432,Debbie,Roberts,,102,1,19.99,1
+2433,William,Gallagher,,102,1,78.73,1
+2434,Patrica,Fasola,,102,1,113.45,1
+2435,Jane,Pierzga,Company266,101,1,125.15,1
+2436,Josephine,Maly,,101,1,167.14,1
+2439,Mitya,Reznikov,,101,1,250.15,1
+2440,Joel,Gort,,100,1,43.15,1
+2441,Joanne Simboli,Hodge,,100,1,139.99,1
+2442,Diane,Shugrue,,100,1,79.42,1
+2443,Kimball,Cranney,,100,1,44.95,1
+2444,Robin,Baer,,100,1,16.23,1
+2445,Marcia,Crumpton,,100,1,21.77,1
+2447,Marilyn,King,,99,1,36.17,1
+2448,Peggy,Phelps,,99,1,53.99,1
+2449,Jeanne,Connelly,,90,2,436.81,1
+2450,Hiroshi,Kamaya,,99,1,68.9,1
+2452,Elizabth,Krubski,,98,1,105.0,1
+2453,Maureen,Kennedy,,98,1,211.2,1
+2454,Therese,Obersinner,Company267,98,1,86.53,1
+2455,Oumou,Bah,,98,1,33.2,1
+2456,Jacqueline,Watson,Company268,98,1,68.9,1
+2457,christy,claybourn,,66,1,129.99,1
+2458,Mariz,trujillo,,98,1,22.49,1
+2459,Bryce,Kelly,Company269,98,1,58.36,1
+2461,Merlyn,Lucas,,98,2,152.7,1
+2462,ronald,fadel,Company270,98,1,43.55,1
+2463,jean,long,,98,1,36.02,1
+2464,Brenda,Norman,,97,2,181.48000000000002,1
+2466,Virginia,Deville,,97,1,67.39,1
+2467,Hubbard Exempted, Village Board Office,Company271,97,1,58.99,1
+2469,Laverne,Hacker,,97,1,86.36,1
+2470,Jeanne,Esperson,,97,1,25.55,1
+2471,Sharon,Klingler,Company272,97,1,39.87,1
+2472,Kevin,Richardson,,97,1,39.66,1
+2473,David ,Fankhauser,,97,1,129.9,1
+2474,barbara,anderson,,97,3,169.53,1
+2475,Clyde,Pratt,Company273,97,1,68.31,1
+2476,Stacey,Brown,,97,1,25.26,1
+2478,Eric,Zander,,97,1,74.88,1
+2479,Hector,MOyet,,34,4,150.05,1
+2485,Della,Adams,,97,1,37.99,1
+2486,James,Noe,Company238,97,1,162.2,1
+2487,nick,alexander,,97,1,25.26,1
+2488,John,Nohelty,Company274,97,1,62.76,1
+2489,Garvey,Stenersen,Company275,96,1,160.04,1
+2490,Sandra,Hills,,96,1,53.93,1
+2491,Celeste,Blair,,96,1,46.33,1
+2492,Robert,Stephens,,96,1,267.57,1
+2493,Seth D. J.,Foley,,96,1,108.95,1
+2494,Eunice,Gikaru,,96,1,92.48,1
+2495,EDWARD,VANBEEK,Company276,96,1,55.03,1
+2496,Pauline,Caldwell,,96,1,57.4,1
+2498,Physical Medicin ,of ramapo,,95,1,55.06,1
+2499,Denise,Hutchings,,95,1,48.69,1
+2500,Mark,Mitchell,Company277,95,2,225.74,1
+2501,James,Webb,,95,1,106.6,1
+2502,Katherine,Miller,,95,1,44.5,1
+2503,Deena,Bell,,95,1,32.46,1
+2504,Elizabeth,Sommer,,95,3,309.48,1
+2505,Alan,Pate,,94,1,393.17,1
+2509,Cheryl,Thompson,,93,1,30.46,1
+2510,Karen,Lowe,,93,1,30.85,1
+2512,sue,minier,,92,1,32.46,1
+2514,Raymond J,Campbell,,92,1,40.4,1
+2515,Michael,Malecki,Company278,92,1,16.28,1
+2516,Margaret,Lewis,,92,1,48.95,1
+2517,Lori,Ray,,92,2,617.08,1
+2518,David,Partak,,92,1,60.62,1
+2519,mike,barth,,91,1,35.33,1
+2520,Phyllis,Stellatos,,91,1,17.55,1
+2521,Babara,Glass,,91,1,45.36,1
+2522,Peggy,Anderson,,91,3,746.0699999999999,1
+2523,William,Karl,,91,1,48.09,1
+2525,patrice,ignelzi,,91,1,29.2,1
+2526,Brian,Harriman,Company279,91,1,609.96,1
+2527,Irene,Hargis,,91,1,49.94,1
+2528,theresa,leo,,91,1,34.96,1
+2529,Eileen,Gottlieb,,91,2,88.5,1
+2530,Lucina,Pietrowicz,,91,1,73.98,1
+2531,Angela,Amburn,,91,1,49.68,1
+2532,Kaneez,St. Hill,,91,2,184.52,1
+2534,Suzanne,Summerford,,90,1,77.87,1
+2535,william,apple,,90,2,250.46,1
+2536,Beth,Callahan,Company280,90,1,23.59,1
+2537,Daniel,Callham,,90,1,22.95,1
+2538,Les,Alligood,,90,1,16.23,1
+2539,Antlantic,Surgicenter,,90,3,6053.76,3
+2540,"Lea B, ",Sargent,Company281,61,4,5705.88,3
+2541,Debbie,Jenter,,90,1,16.23,1
+2545,Marcie,Vilella,Company282,90,1,34.19,1
+2547,John,Taylor,,90,1,59.94,1
+2548,Patrick,Grueskin,Company283,90,1,53.1,1
+2549,Rob,Wengerter,,73,2,146.07,1
+2550,Cassandra Hurt ,Centra PACE,,48,2,709.32,1
+2551,Roger,Rynberg,,90,1,23.09,1
+2552,Martin Feinberg,Feinberg,,89,1,60.26,1
+2553,NEIL ,MAXWELL,,89,1,135.99,1
+2554,Keth,Ward,,89,1,75.21,1
+2556,Richard,Smith,,89,1,74.88,1
+2557,robert,davis,Company10,89,1,746.2,1
+2558,Edmond,Francis,,89,1,52.78,1
+2561,Joyce,Feuerhelm,,88,1,311.45,1
+2562,Becky,Hanson,,88,1,31.22,1
+2563,habib,khan,Company284,88,1,221.39,1
+2564,Mary,Lynn,,88,1,29.9,1
+2565,Ayanna,Williams,,88,1,53.09,1
+2566,Juanita,Currie,,88,2,199.92,1
+2567,Maureen,Richard,,88,1,45.26,1
+2569,Benjamin,Martin,Company285,88,1,36.21,1
+2570,Luis,Garcia,,88,1,50.31,1
+2571,JAYLEX,JAYLEX,,88,1,24.9,1
+2572,Kathleen,Kleinbeck,,88,2,203.16,1
+2573,Carol,Bonneville,,87,1,30.59,1
+2574,Carla,Campbell,Company286,87,1,127.85,1
+2575,Bert,Seltzer,,87,1,42.99,1
+2576,Kenneth,Tebo,,87,1,149.45,1
+2577,mary,hudgins,,87,1,35.33,1
+2579,Carl,Rembielak,,87,1,24.99,1
+2580,Geraldine,Force,,86,1,50.34,1
+2581,Diana,Jenab,,86,2,2041.9,3
+2582,Marie,Hatlelid,Company287,63,2,194.98000000000002,1
+2584,Kathy,Dawson,,85,1,74.94,1
+2585,Fritz,Koontz,,85,2,264.06,1
+2586,Karen,Challberg,,85,2,246.88,1
+2587,Richard,Kimble,,85,1,61.42,1
+2588,Jason,Lanzotti,Company288,85,1,65.63,1
+2589,Dave,Lawson,,85,1,71.98,1
+2590,Mitchell,Berg,Company289,84,1,85.55,1
+2591,Donald ,Ellis,,84,1,56.12,1
+2592,Carol,Smith,,84,1,105.08,1
+2593,Corrie,King,,84,1,13.75,1
+2594,Beatrice,Tatum,,84,1,16.27,1
+2595,Dale,Burgess,,84,1,104.95,1
+2596,douglas,perry,,84,2,203.16,1
+2597,Cecile,Wilminton ,,35,2,334.54,1
+2598,Eleanor a,Williams,,84,1,23.44,1
+2599,Kathryn,Cox,,84,1,119.24,1
+2601,Susyn,Berger,,84,1,74.88,1
+2602,Bill,Romano,,69,2,33.18,1
+2603,John,Coakley,Company290,84,1,55.33,1
+2605,Leovince,Adle,,84,1,15.95,1
+2606,Narcis,Gosselin,,84,1,115.98,1
+2607,Durell,Peart,Company290,83,1,40.1,1
+2608,Giovanni,Furia,,83,1,19.38,1
+2609,Lucynthin,Rawls,,83,1,23.23,1
+2610,lynda ,wilson,,83,1,125.99,1
+2611,Residential,Care Services,Company291,34,5,3973.1400000000003,3
+2612,Magy,Marcos,,83,1,18.47,1
+2613,Louis D,Campbell,,83,1,17.37,1
+2614,The Rehabilitation Medicine Center Of NJ,Medicine Center Of NJ,,83,1,8.58,1
+2615,Jim,Settlemire,,83,1,16.23,1
+2616,iona,cortez,,83,1,39.99,1
+2617,miguel,rangel,,66,2,107.48,1
+2618,Tami,Shaw,,83,1,37.62,1
+2620,juancarlos castillejos,Reference# OREUSA1308786344MX,,83,1,42.98,1
+2621,Ivan,Jones,Company292,82,2,110.88,1
+2622,Rosemary,Sharp,,82,1,43.54,1
+2623,Gennaro,Vergato,,82,1,51.34,1
+2624,Nancy,Mills,Company293,82,1,37.99,1
+2626,Raymond,Cunning,,82,2,169.78,1
+2627,Barbara,Hadley,,82,1,176.97,1
+2628,Heylee,Nieves,,82,1,63.66,1
+2629,LINH,VO,,82,1,535.55,1
+2630,Linda,Ballard,Company294,82,1,76.6,1
+2631,Rosemary,Vrablic,,82,1,26.11,1
+2632,Calvin,L.Boyd,Company295,82,1,16.23,1
+2633,Jerry,Pasol,Company296,82,3,309.71999999999997,1
+2634,lester,wheaton,,82,1,28.52,1
+2635,Joe,Barner,,81,1,89.1,1
+2636,Cyndi,McAuley,Company297,81,1,74.88,1
+2638,Sharon,Brown,,81,2,431.92,1
+2640,Eugenia,Sallans,,81,1,50.34,1
+2641,Marcy,Seaman,Company298,81,1,119.97,1
+2642,Guadalupe,Pascual,,81,1,74.88,1
+2643,Syble,Kincannon,,81,2,97.38,1
+2644,John m,Broderick,,81,3,398.13,1
+2645,Jennifer,Bodnar,Company299,81,1,54.05,1
+2646,Muning,Hu,,81,1,5.62,1
+2647,Melody,Hollowell,,81,1,58.99,1
+2648,Ulis,Hekel,,80,1,31.94,1
+2649,Clara,Rodriguez,,80,1,16.23,1
+2650,Nichole,Buchanan,,80,1,173.57,1
+2651,Leia,Johnson,Company300,19,5,1329.55,3
+2652,Brenda,Alexander,,80,1,174.87,1
+2653,Brenda,zobel,,80,1,74.94,1
+2654,susanna,gunther,,80,1,14.76,1
+2656,pauline,KLIPPEL,,80,1,40.13,1
+2657,Adelaida,Martinez,Company73,78,1,50.17,1
+2658,Robin,Hoag,,79,1,159.99,1
+2659,Anita,Waterman,Company301,79,2,240.46,1
+2661,Lois,Palmisano,,78,1,57.48,1
+2662,jacki,beasley,,78,1,48.69,1
+2664,Vanessa,Stallings,,78,1,130.95,1
+2665,Martha,Allen,Company73,78,1,29.04,1
+2666,Maria,Bergmann,,78,3,148.92000000000002,1
+2667,Kenneth,Presley,,78,1,64.35,1
+2669,MRPT,AIDE,,77,1,34.72,1
+2670,JoEllen,Reed,,77,1,223.7,1
+2671,Barbara,braun,,77,1,17.05,1
+2672,HERBERT,RAND,,77,1,79.99,1
+2673,Carl ,Mohrwinkel,,77,1,39.0,1
+2674,Judith,McCartney,,77,1,27.71,1
+2675,Jimmy,Hamilton,,77,1,30.1,1
+2676,Amy,Hagler,Company302,69,4,1635.73,3
+2677,Lorraine,Leathers,Company303,76,1,42.15,1
+2678,Eileen,Salem,Company304,76,1,67.39,1
+2679,Paul,Fitzgerald,,76,1,68.47,1
+2680,Martha ,Keler,,76,1,69.99,1
+2681,Steve,Milovich,,76,1,267.45,1
+2682,Rashiem,Smith,,76,1,66.91,1
+2683,Robert,Krzyzkowski,,76,1,40.93,1
+2684,Michele,Smith,,76,1,35.83,1
+2685,Glen,Bearss,,76,2,166.02,1
+2686,Glynice,Lurie,,76,1,112.95,1
+2687,Lisa,Rivera,,76,1,66.46,1
+2688,Monique,Williams,,76,1,51.94,1
+2689,Rudolph,Melendez,Company65,75,1,52.84,1
+2690,Virginia,Hutchinson,,75,1,44.95,1
+2691,Tim,Lane,Company305,75,1,235.05,1
+2692,Nena,Obusan,,75,1,334.9,1
+2693,LOUIS,PETRIE,Company306,75,1,91.76,1
+2694,Colleen,Kahler,,46,2,88.78,1
+2698,Reli,Stoessel,,75,1,27.33,1
+2699,Sheri,Blanchette,,75,2,350.06,1
+2700,Alicia,Reagan,,75,1,62.1,1
+2701,Mary Lou,Siener,,75,1,192.05,1
+2702,Anna,Nash,Company307,75,1,160.65,1
+2703,Gregory,Diamond,,75,1,4.35,1
+2704,susan,creek,,75,1,17.05,1
+2705,Rosemary,Janis,,74,1,38.02,1
+2706,Vicky,Zemkosky,,74,1,16.23,1
+2707,Jamie,Sawyer,,74,1,136.76,1
+2708,Bradford,Upchurch,Company308,74,2,1092.78,1
+2709,Klaus,Haslinger,,74,1,16.23,1
+2710,LoriLee,Watt,,74,6,8119.38,2
+2711,Arlene S,Notary,,74,1,18.28,1
+2712,Robert,Ryman,,74,1,74.73,1
+2713,Linda,Tillman,,74,2,279.2,1
+2714,vonda,grey,,74,1,113.04,1
+2716,Beth,Von Striver,Company309,73,1,202.0,1
+2717,William,Wallett,,73,1,61.66,1
+2718,Daniel,Gomez,Company310,73,1,25.9,1
+2719,Staci,Meredith,,11,2,31.08,1
+2720,Elizabeth,Gorham,,73,2,173.0,1
+2721,James,Barrett,,71,1,22.76,1
+2722,hawanya,garrett,,43,8,2006.04,3
+2723,anna,erby,,72,1,16.23,1
+2724,Williamson,Vreeland,,72,1,29.33,1
+2725,Jose Mari,Soriano,,68,2,446.77,1
+2728,Charles,Nunn,,72,1,125.99,1
+2730,JEAN,LABROUCHE,,72,1,174.51,1
+2731,Ruth,Berry,,72,1,29.74,1
+2732,Thomas,Krenke,,72,1,115.98,1
+2733,Anita,Winters,,71,1,386.99,1
+2734,Shadirah,Myrick,,71,1,209.71,1
+2735,Don,Fox,,71,1,14.61,1
+2736,Pamela,Perrin,,71,1,91.84,1
+2737,Stephen,Ralston,,71,1,93.45,1
+2738,HG,Lab Services ,,71,1,100.0,1
+2739,Debra,Jordan,,71,1,58.99,1
+2740,Anil,Patel,,39,4,676.5,1
+2741,Lorraine ,Martel,,71,1,24.9,1
+2742,William,Sakal,,70,2,1422.52,1
+2743,Hilda,Martinez,,70,1,70.02,1
+2744,Joe,Murray,,70,1,174.51,1
+2745,Kristina,Tusai,Company311,70,1,22.0,1
+2746,Aida ,Liz,,70,1,125.99,1
+2747,MARILYN,MANZO,,64,3,574.64,1
+2748,Sherry,Clayton,,70,1,29.79,1
+2749,Stacy ,Kissamis,Company312,70,1,316.91,1
+2750,Ehsan,Shahmir,,70,1,72.94,1
+2751,Rodger,Rasp,,70,1,99.29,1
+2752,srinivas,kesanakurthy,Company313,70,1,100.71,1
+2753,CORI,WALTER,Company314,70,1,53.99,1
+2755,Darrick,Johnson,Company315,70,1,504.95,1
+2757,Amy,Jeffery,,70,1,35.33,1
+2759,Velma,Wright,Company54,70,1,28.95,1
+2760,Jessica,Shegogue,,69,1,267.57,1
+2761,Rufino C. ,Radilla,,69,1,129.9,1
+2762,EDMUND ,RUDE,,69,1,30.0,1
+2766,Sweet Berry ,Farms,,69,1,38.96,1
+2767,Frank,Damble,,25,4,744.23,1
+2768,Willard,Paln,,69,1,31.26,1
+2770,Sally,Crank,Company316,67,2,1046.1,1
+2771,Kathleen,Peters,,69,1,73.74,1
+2772,Jeffrey,Weissler,,69,1,26.68,1
+2773,Fressie,Sanchez,,69,1,53.09,1
+2774,Gregory,Parker,,69,1,78.39,1
+2775,Margaret,Smith,,67,1,52.73,1
+2776,Joyce,Dirrman,,68,1,42.4,1
+2777,victor,camasi,,68,1,69.0,1
+2778,ACCOUNTS,PAYABLE,Company317,68,1,111.35,1
+2779,william,Cicchetti,,65,2,72.15,1
+2780,jeff,scott,,68,1,62.32,1
+2781,Les,Sparrow,,68,1,72.2,1
+2782,Susan,Brennan,,68,1,58.53,1
+2783,Tamara,Forbes,,68,2,370.1,1
+2784,david,meyer,,68,1,174.51,1
+2785,Ron,Reese,,68,1,177.03,1
+2786,J T,Sterk,,68,1,407.75,1
+2787,Larry,Knesek,,68,1,71.4,1
+2788,William ,Clark,,67,1,177.33,1
+2789,Dieyemma,Mitchell,,67,1,37.95,1
+2791,Judith A,Brewer,,67,1,42.94,1
+2792,Kay,Quaid,,67,1,23.95,1
+2794,Lisa,Waterman,,67,1,7.99,1
+2796,William,Beard,,67,2,291.96,1
+2798,Julia,Hustwit,,67,1,68.9,1
+2799,sanzida,yasmeen,,67,1,16.23,1
+2800,sally A.,schmitt,,63,1,22.49,1
+2801,Claudine,Anastasi,,67,1,103.23,1
+2802,craig,davies,,66,1,65.77,1
+2803,Jennifer,Moss,,66,1,335.0,1
+2805,Herbert,Brown,,65,1,30.6,1
+2806,Ashley,Jones,Company318,65,1,196.79,1
+2807,Mike -Ruth,McHenry,,42,2,71.96,1
+2809,jennifer,hanna,,65,1,98.13,1
+2810,DOROTHY,MINTNER,,65,2,301.72,1
+2811,M.,Biddle,,65,1,38.63,1
+2812,Phillip,Hakimian,Company319,65,1,20.2,1
+2813,Joan,Hansen,,62,1,119.19,1
+2814,William,Hayes,,65,1,62.41,1
+2815,Michael,Dompierre,,64,1,48.03,1
+2818,Aurelie,Flores,Company320,64,1,40.23,1
+2819,Duane,Brier,,12,1,98.87,1
+2820,Jeannie A,Scarlett,,9,6,750.6700000000001,3
+2821,Tomas,Vega-Tapia,,63,1,98.61,1
+2822,Jeff,Franklin,,63,1,64.75,1
+2823,Peggy,Kirkpatrick,,63,1,69.99,1
+2824,Mary,Best,,63,1,6.55,1
+2826,Anna marie,O'Loughlin,,63,1,69.99,1
+2827,Michelle,Pawlak,,63,1,113.39,1
+2829,David,Blank,,63,1,27.95,1
+2830,Carole,Earwood,,63,1,9.24,1
+2831,Linda,Fountain,,63,3,592.2,1
+2832,Jace,Ferguson,Company321,63,1,63.99,1
+2833,Shannon ,Erzfeld,Company322,63,1,86.25,1
+2834,Mark,Morton,,63,1,76.2,1
+2835,Bernard,Cookson,,63,1,125.99,1
+2836,Mary ,Frankio,,62,1,33.99,1
+2837,kabanyishi ,lundula,,62,1,141.33,1
+2838,Cassandra,Chrisentery,,62,1,34.35,1
+2839,Housing Resources ,Bainbridge,,62,4,710.96,1
+2840,Community nissiion ,"of colorido city, Inc",,62,1,159.63,1
+2841,Irene,Mello,,6,4,301.8,1
+2842,Patsy,Davis,,62,1,164.95,1
+2843,Patricia,King,,62,1,46.48,1
+2844,David,Dumek,,62,1,148.1,1
+2845,Bonnie,Mitchinson,Company323,62,1,27.75,1
+2846,Tammy,Wold,,62,1,143.19,1
+2847,linda,smaligo,,62,1,58.99,1
+2848,Biane,Simmons,,62,1,27.34,1
+2849,Deebie,Mccarthy,,61,1,52.22,1
+2850,Gabrialle,Boisson,,61,1,64.53,1
+2853,Charene,Hibbard,,61,1,24.59,1
+2855,Joe,Old,,61,1,252.19,1
+2856,Mary,Corrigan,,61,1,34.21,1
+2857,Sandra,Brown,,61,1,22.09,1
+2858,Paulette,Crawford,,61,1,115.98,1
+2861,Diane,Farmer,,61,1,286.25,1
+2862,Kelly,Moser,,61,1,68.96,1
+2863,Jerry,Bugay,,60,1,88.55,1
+2864,Brian ,Davis,,60,1,33.99,1
+2865,Rachel,Swystun,,60,1,55.7,1
+2866,Michelle,Dayton,,60,1,177.95,1
+2867,Zetra Elaine,"Allen, RNC",Company324,60,1,99.45,1
+2868,Shane Sung,Chin,Company325,60,2,357.94,1
+2869,Cassandra,Robison,,60,1,35.24,1
+2870,Elaine Fortuna ,Ella Beauty,,60,1,30.0,1
+2871,Steve,Parker,Company326,58,1,158.45,1
+2872,Vikki,Dykstra,,60,1,44.03,1
+2873,Linda,Cohen,,60,1,40.63,1
+2874,Frank,Rollman,,60,1,90.1,1
+2876,Donna,Forns,Company327,59,1,37.86,1
+2877,Samantha,Ryan,Company328,59,2,215.96,1
+2879,Michael,Fomundam,,59,1,93.65,1
+2880,Melinda,DalSanto,,59,1,31.71,1
+2881,Carol,Reve,Company329,59,1,21.28,1
+2882,Joseph,Demma,,59,1,4.24,1
+2883,Martha,Triebel,,59,1,52.73,1
+2885,Francis,Wallace,,59,1,16.23,1
+2886,Kim,Freudenberger,,59,1,34.95,1
+2887,Jennifer,Ross,,59,1,36.99,1
+2888,charles,mahl,Company330,58,1,67.95,1
+2889,Linda,Johnson,,58,1,69.04,1
+2890,Barbara,Forte,,58,1,74.99,1
+2891,Joanne,Valerie,,58,1,45.25,1
+2893,Patricia,Millison,,57,1,43.97,1
+2894,shane,pilkington,,57,1,138.29,1
+2895,Patricia,Overstreet,,57,1,68.27,1
+2896,Constance,Kuster,,57,2,273.52,1
+2897,Earl,McQuain,,57,1,16.23,1
+2898,James,Shaffer,,57,1,56.18,1
+2899,Catrina,Lewis,,57,1,24.99,1
+2902,MINNESOTA ,CRANIOFACIAL CENTER,,57,1,86.58,1
+2903,Frank,Taylor,,57,1,177.33,1
+2904,Ann,Orlando,,57,1,27.99,1
+2906,Joseph,Elmer Parent,,56,2,211.84,1
+2907,Scott   KY United States,Hoffman,,56,1,129.9,1
+2908,Mike,David,,56,1,15.68,1
+2909,Dawn,Byrd,,56,1,79.99,1
+2910,Rosendo,Gonzalez Jr.,,56,1,16.23,1
+2911,William,Brownfield,Company204,56,1,31.94,1
+2914,Joseph,Breda,,56,1,34.89,1
+2915,Frank ,Hoerrle,,56,1,56.12,1
+2917,Andrew,Galvao,,55,1,97.7,1
+2918,Lynnae,Selberg,,55,1,55.89,1
+2919,Regina  ,Muschette,,55,1,135.99,1
+2920,Todd,Sinander,Company331,55,4,1038.8,1
+2921,Joseph,Jay,,55,1,126.13,1
+2922,Joseph,Brocato,,55,1,48.6,1
+2924,Roger,Maxey,,55,1,40.05,1
+2925,John,Kenney,,55,1,76.9,1
+2927,Marilyn ,Heers,,55,1,335.0,1
+2928,Steven,Larson,,55,2,218.12,1
+2929,Bob,Wiright,,54,1,53.42,1
+2930,Steve,Bolla,,54,1,42.1,1
+2931,Martha,Congdon,,54,1,117.98,1
+2932,Betty,Rohloff,,54,1,93.6,1
+2934,dorothy,pendergrass,Company332,54,1,29.08,1
+2935,Arpad,Nagy,Company333,46,2,672.37,1
+2936,Alouis,Colgan,,54,1,34.99,1
+2937,bill,zinn,,54,1,13.39,1
+2938,Carissa,Dowd,Company334,54,1,23.08,1
+2939,Roxene,Durham,,54,1,44.22,1
+2940,lois,moore,,54,1,34.99,1
+2941,Belinda,wilkerson,,53,1,25.38,1
+2942,Thomas,Twarogowski,,53,1,16.23,1
+2943,Walter,Ohaeri,,53,1,125.88,1
+2944,Elvire dominique,Youbi,Company335,53,1,163.15,1
+2948,Carol ,Shine,,53,1,63.01,1
+2949,Debra,Salas,,53,1,159.99,1
+2950,TED,WOLD,Company336,52,1,16.23,1
+2952,John,Cancialosi,,52,1,109.26,1
+2953,Michael,Altemus,,52,2,64.14,1
+2954,Sherman,Langer,,52,1,58.99,1
+2955,Lissa,Mattson,,27,4,530.0600000000001,1
+2956,Velma,Moore,,51,1,57.94,1
+2957,Willie,Jernigan,,51,2,145.76,1
+2958,Ronald,Coifman,,51,1,155.03,1
+2959,CAROL,COLLINS,,51,1,24.89,1
+2960,Phillip,Zamagne,,50,1,36.69,1
+2961,ROBERT,EGLINGER,,50,3,188.01,1
+2963,MANUEL,DE LA CERA,,50,1,104.95,1
+2964,Helen  E.,Dziewik,,50,1,24.99,1
+2965,Arthur,Bertsch,,50,1,18.6,1
+2967,Grant ,Tom ,,50,1,129.9,1
+2968,Dodie ,Harmon,,50,1,259.8,1
+2969,Ann,Baucus,,45,2,92.28,1
+2970,Maryanne,jernigan,,50,1,176.67,1
+2972,Donald,Porrtkey,,49,1,99.0,1
+2975,Rose,Buongiorno,,49,1,67.84,1
+2976,Carl,Taber,Company337,49,1,18.69,1
+2977,Mary,Butler,,49,1,16.18,1
+2978,Julie,Stabiner,,49,1,16.88,1
+2979,Raymond,Roberts,,49,1,158.59,1
+2980,Terrez,Maxwell,,49,1,286.25,1
+2981,phyllis,Cooper,,49,1,51.7,1
+2982,William,Flanagan,,49,1,25.26,1
+2983,Faye,Fairbank,,49,1,263.44,1
+2984,David,Fein,,49,1,58.99,1
+2985,Marianne,Letterio,,48,1,41.45,1
+2986,Rosemary,Wolanski,Company338,48,1,337.5,1
+2987,zc,weiss,Company339,48,1,29.07,1
+2989,Scott,Shandler,Company340,48,1,37.15,1
+2990,Sarah,Coats,,48,1,30.3,1
+2991,Alyssa C,LaForme Fiss,Company341,48,2,1687.64,1
+2992,Bridgette,Powers,Company342,48,1,19.38,1
+2994,Vance,Ohme,,48,2,226.64,1
+2995,Jeffrey,Hudson,,48,1,40.1,1
+2996,Richard,Webber,,48,2,134.76,1
+2997,Merdella,Chippewa,,48,1,6.55,1
+2998,Carol,Voisin,,48,1,286.25,1
+2999,Ri,Venuti,,48,3,316.79999999999995,1
+3000,Dottie G,Newsom,,48,1,43.84,1
+3002,StatesBurg Sur,Marry Keen,,48,1,38.54,1
+3003,Garry ,Stophel,,48,1,129.9,1
+3004,Janice ,Mann,,48,1,129.9,1
+3005,HK ,Sharan,,48,1,129.9,1
+3006,Burten ,Leibowitz,Company343,27,2,4987.5,3
+3007,Petrish,Vaccaro,,48,1,19.07,1
+3008,Judy,Bremser,,48,1,35.98,1
+3009,Deborah,Sigman,Company344,47,1,60.0,1
+3010,Beth,Jezierny,Company345,47,1,85.55,1
+3011,Robert,Hilliard,,47,1,26.0,1
+3012,Lori,Chlitsos,,47,1,177.07,1
+3013,Chinyere,Nlemigbo,,47,1,36.22,1
+3014,Brenda,DuBois,,47,1,47.13,1
+3015,Kristine,Wilson,,47,1,14.97,1
+3016,Michael,Ball,,47,1,58.99,1
+3017,mehra,heravi,,47,1,142.14,1
+3018,Michael ,Dukes,,47,1,135.99,1
+3019,Lynn,Johnson,,47,1,15.5,1
+3020,Nichole,Perreault,,45,1,286.25,1
+3021,Vincent,Tyler,Company346,47,2,644.24,1
+3022,Laura,Law,,47,1,14.85,1
+3023,Ronnie ,Kiihnl,,47,1,194.99,1
+3024,brent ,spencer,,47,1,99.99,1
+3026,Marry,Pearce,,47,1,14.56,1
+3028,Jacob,Lifson,,47,1,47.13,1
+3031,David,Klark,,47,1,92.48,1
+3032,St Marrys ,Hospital,,46,1,176.99,1
+3033,Fred,momdrik,,46,1,27.43,1
+3035,Micheal,Maruskin,,46,1,104.38,1
+3036,mentz-martin ,svarstad,,45,1,66.38,1
+3038,billie,Atchison,,45,1,15.31,1
+3040,Raymond,Hagedorn,,45,1,19.07,1
+3041,Lisa,Taylor,,45,1,47.21,1
+3042,Julie,baxter,,45,1,27.47,1
+3043,Marchael,Heitmann,,44,1,13.21,1
+3044,Alta Mae,Lingo,,44,1,31.94,1
+3045,Lafie,Campbell,,42,1,122.21,1
+3046,Kenneth,Dolleris,,44,1,62.45,1
+3047,Virginia,McKenna,,42,2,91.32000000000001,1
+3048,DEBBIE,TRENT,,43,4,658.68,1
+3049,Chris,Stevens,,43,1,159.63,1
+3050,john,bonvicino,,43,1,74.15,1
+3051,Jeffrey,Bolles,,43,1,164.56,1
+3052,Beth,Shott,,43,1,5.28,1
+3053,Dina,Chavez,,43,1,104.85,1
+3054,Helen,Ivy,,43,1,82.75,1
+3056,Ron,Cechner,,43,1,56.45,1
+3057,Christopher,Anstett,,43,1,58.64,1
+3058,Corey,Vancura,Company347,43,2,224.96,1
+3063,mariam,Mitchel,,43,1,33.93,1
+3064,Mercedes,Garip,,43,1,90.42,1
+3065,Kent,Waryan,,32,2,94.8,1
+3066,Craig,Johnson,,25,2,390.60999999999996,1
+3067,Thomas,Sikora,,42,1,178.7,1
+3068,Bill,Azbill,,42,1,18.88,1
+3069,joseph,Flowers,,42,1,53.35,1
+3070,Marlene,Miera,Company348,42,1,63.49,1
+3071,Theresa,Arnold,,42,2,225.96,1
+3074,James ,Seman,,42,1,31.26,1
+3075,Janice,Boyle,,42,2,53.18,1
+3076,Maryann,Bertram,,42,1,134.15,1
+3077,Phyllis,Malone,Company349,42,1,55.49,1
+3078,matthew,hickman,,42,1,29.4,1
+3079,Martha,Grinstead,,42,1,48.87,1
+3080,Kathy,Rycek,,42,2,105.66,1
+3081,Mary L,Andre,,42,1,29.98,1
+3084,Charels,Pastva,,42,1,125.99,1
+3085,Diane,Mignone,Company350,42,1,105.19,1
+3086,Bruce,Highfill,,42,1,63.01,1
+3087,Paul,Goodwin,,42,1,36.01,1
+3088,Janice,White,,41,1,64.77,1
+3090,Patty,Martin,,41,1,78.71,1
+3091,Charity,Hall,,41,1,46.7,1
+3092,Belinda,Salinas,Company351,41,1,29.09,1
+3093,Daniel,Wilson,,41,1,15.5,1
+3094,jeeva,koodalingam,,41,1,17.11,1
+3095,DAN,SIMINEA,,41,1,68.33,1
+3096,Davita,Nowland,,10,2,388.7,1
+3097,Mary - Dana,Bentley,,41,1,71.52,1
+3099,Carlos,Hernandez,,41,1,7.13,1
+3100,Dona,Lamb,,40,1,15.75,1
+3101,Brian,Rowland,Company352,12,2,1692.9,1
+3102,Randy,Hancock,Company353,40,1,293.8,1
+3103,Richard ,Freeman,,40,1,8.09,1
+3104,julie c,powell,,40,1,58.99,1
+3106,dennis,ohara,,40,1,12.93,1
+3107,ARUS,KNADZHYAN,Company354,40,2,265.2,1
+3108,Chris,Smith,,40,1,35.33,1
+3109,Jeanne,Harlow,,40,1,17.99,1
+3110,Laura,Vasquez,,40,1,75.25,1
+3114,Glenn,Manley,,40,2,203.36,1
+3115,Charles R,Wray Jr,,40,1,14.85,1
+3116,Rise,Kingsbury,,40,1,37.2,1
+3117,Shirley,Schott,,40,1,92.45,1
+3118,Dave ,Delehant,Company355,40,1,269.83,1
+3119,Wesley,Chalker Jr,,15,2,39.96,1
+3120,Salwa,Bahhur,,40,1,80.49,1
+3121,Janice,Barrett,,40,2,128.38,1
+3122,Joe,Joyner,,40,1,45.94,1
+3123,Karen,Doumit,,40,1,39.65,1
+3124,patricia,feltes,,40,1,41.28,1
+3125,Leonard,Seeff,,40,1,41.41,1
+3126,Aileen,Donnelly,,39,1,51.56,1
+3127,Edward,Kho,,39,1,158.05,1
+3128,Herbert,Brown,,39,1,58.94,1
+3129,Hannah,Wolfgang,,39,1,40.71,1
+3130,Ellen,Thomas,,39,2,123.4,1
+3131,Qasim,Bajwa,,39,1,42.61,1
+3132,Judith,Phillipi,,39,1,58.99,1
+3133,SHARON,COSTELLO,,39,1,14.85,1
+3137,Jon ,Ward,,39,1,100.31,1
+3140,Aaron,Davis,,39,1,109.63,1
+3141,Pamela,Schnelker,,33,2,56.97,1
+3142,Richard,Jennette,,38,1,105.85,1
+3143,Patricia,Torres,,38,1,192.05,1
+3144,laura,harsh,Company185,38,1,38.95,1
+3145,Bryan,Lamkin,,38,1,2.89,1
+3146,Loucas,Cronis,,38,1,28.13,1
+3147,Jan,Sharer,,38,1,34.08,1
+3148,Larry,Brown,,37,2,161.96,1
+3149,Rita,Freels,,37,1,33.71,1
+3151,Edward,Astri,,37,1,8.69,1
+3152,CLARENCE,POLLARD,Company356,37,1,50.98,1
+3154,Martha,Pacheco,,37,1,67.59,1
+3155,Laura,Chaves,,37,1,151.2,1
+3156,Barbara,James,,37,1,58.99,1
+3157,WARREN,SEDRAN,,37,1,25.19,1
+3158,Van Paula,Wilkie,,37,1,40.4,1
+3159,Clara,Dees,,37,1,11.3,1
+3160,Angela ,Sherwood,,37,1,66.38,1
+3161,Timothy ,Hulbert,,37,1,137.08,1
+3162,randy,gray,,37,1,46.35,1
+3163,Kay,Levine,,36,1,19.26,1
+3164,George,Perez,Company357,36,1,14.05,1
+3165,Elena,Takacs,,36,1,14.85,1
+3166,Debbie,Roesch,,36,1,47.57,1
+3167,Nanette,Forte,,36,1,85.27,1
+3168,Terry,Smith,,31,3,221.31,1
+3169,vamanrav,vamanrav,,36,1,64.97,1
+3170,John,Hamilton,,36,1,74.99,1
+3171,Chie Chie,Boles,,36,1,79.17,1
+3172,Patty,Parker,,35,1,28.55,1
+3174,United promotion,promotion,,35,2,4328.6,3
+3175,Lyn,Patton,,35,1,107.09,1
+3176,Judy,Curtsinger,,35,1,8.91,1
+3177,Michael,Hineline,,35,2,122.78,1
+3178,Elizabeth,Skinner,,35,1,7.26,1
+3179,cinthya,Ramnarine,,35,1,24.25,1
+3182,Tammy,Tenney,,35,1,40.4,1
+3184,Larry,Castleberry,Company358,35,1,38.96,1
+3185,Salvador,Gaitan,,35,1,33.69,1
+3186,Emily,Hays,,35,1,64.71,1
+3187,Mary Ann,Kerkvliet,,34,1,43.34,1
+3188,Linda,Wilkinson,,34,1,48.85,1
+3189,Marilyn,Kreiseder,,34,1,114.03,1
+3190,Susan,Frisbie,,34,1,23.08,1
+3193,Michael,Jaffa,,34,1,113.39,1
+3194,Lissa,Fisher,,34,2,59.4,1
+3200,Dolores,Slabinski,,34,1,28.97,1
+3202,Joe,Cabral,,34,1,48.45,1
+3203,Denise,Miller,,33,1,40.4,1
+3204,Lis,Egeberg,,33,1,38.95,1
+3205,Dennis,Malen,,33,2,113.18,1
+3206,Ines,Bartolo,,33,1,23.62,1
+3207,Avi,Goldfarb,,33,1,34.08,1
+3209,Sheila Garrett,King,,33,1,29.52,1
+3210,Julia,Frierson,,32,1,62.06,1
+3212,Irene,Mulholland,,33,1,43.9,1
+3213,Rayma,Davis,,33,1,58.99,1
+3214,James,Seirmarco,,33,1,187.12,1
+3215,David,England,,33,1,93.6,1
+3216,Bethany,Greening,Company359,33,1,29.33,1
+3218,Peter,Clark,,32,2,55.61,1
+3219,Don,Harvan,,33,1,32.83,1
+3221,Brigitte,Buie,Company360,32,1,87.1,1
+3222,Donald,Johnson,,32,1,66.31,1
+3223,John,Stavola,,32,1,66.73,1
+3224,Sarah,Loewen,,32,1,14.85,1
+3225,Larry ,Boardwine,,32,1,64.05,1
+3226,Audrey ,Welchlin,,32,1,133.99,1
+3227,Michelle,Rivers,Company361,32,1,75.79,1
+3229,Don,Haecker,,32,1,29.33,1
+3230,Joe,Sicari,,32,1,145.58,1
+3231,Tracy,Harris,,32,1,14.85,1
+3232,Robert,Riordan,,31,8,2074.4,3
+3233,Dan,Stork,,32,1,38.95,1
+3234,PERRY ,BUILDING,,32,1,2588.0,3
+3235,Michael,Shaffir,,32,1,43.23,1
+3236,madeline,mccarver,,32,1,41.82,1
+3237,David,Davis,,31,1,70.2,1
+3238,colleen,mann,,31,1,17.36,1
+3239,Greg,Henderson,,31,1,29.7,1
+3240,Lynn,Macauley,,31,1,14.28,1
+3241,ROBBIN,HERNDON,,31,1,29.33,1
+3242,David,Cohen,,31,1,36.72,1
+3243,ronald,burdick,,31,1,62.45,1
+3245,Raymond,Legatti,,31,1,40.17,1
+3247,Wayne,Davis,,31,1,48.74,1
+3248,Dustin,Reitzel,,30,1,29.7,1
+3251,Angela,Proudfoot,,30,1,73.43,1
+3252,Dianna,Gilmore,,30,1,110.05,1
+3253,raymond,green,,30,1,71.85,1
+3254,Renee,Wolf,,30,1,51.94,1
+3255,Himanshu,Misra,,29,1,24.99,1
+3256,Kenneth,Blew,,29,1,49.19,1
+3257,Karen,Lenox,,29,1,48.03,1
+3258,Donald,Johnson,,29,1,74.75,1
+3259,Ted,Wilson,,29,1,99.91,1
+3260,DAVID,WEINRAUCH,Company362,29,1,14.85,1
+3261,David,Crittenden MD,Company363,26,1,108.12,1
+3262,Catherian,Tobin,,28,1,30.95,1
+3263,Judy,Plumb,,28,1,123.51,1
+3265,Lenny,Shenall,Company364,28,1,64.08,1
+3267,Minas,Kodjaoghlanian,,28,1,114.8,1
+3268,Paul,Nitz,,28,1,100.95,1
+3269,Doris,Reizer,,28,1,15.16,1
+3270,Emily,Sommers,Company365,28,2,532.9,1
+3271,Scott ,Price,,27,1,55.32,1
+3272,Rosa,Martin,,27,1,24.07,1
+3273,Garth,Vaz,,27,1,24.72,1
+3274,Katie,Cirillo,Company366,27,1,59.63,1
+3275,Chris,Almeida,Company367,27,1,44.73,1
+3276,Jeffrey,Frank,,27,1,31.15,1
+3277,Dolores,Gosnell,,27,1,27.99,1
+3278,Allison,Collins,,27,1,25.35,1
+3280,Jeanette,Hays,,23,3,256.24,1
+3283,Jacqueline,Diener,,27,1,48.03,1
+3284,Annete,Barker,,27,1,74.99,1
+3285,roman,agivayev,,27,1,161.62,1
+3286,JOHN,MCVAN,Company368,17,2,192.54,1
+3287,Susie,Ehren,,27,1,46.52,1
+3288,Olsie,Andrews,,27,1,135.94,1
+3289,Barbara,Wasem,,27,1,113.39,1
+3290,Carol,Winn,,27,1,44.5,1
+3291,Nancy,Verner,,26,1,55.84,1
+3293,Louise,Robidoux,,26,1,161.93,1
+3294,Sandra,Hovey,Company369,26,1,10.56,1
+3295,ART,HUGGINS,,26,1,75.26,1
+3296,Steven ,Kiselyk,,26,1,34.35,1
+3297,Frank,Scherer,,26,1,39.99,1
+3298,Gary,Mortimer,,26,1,81.35,1
+3299,Lee,Gerstenhaber,,26,1,34.99,1
+3301,Patricia,Alligood,,26,1,73.83,1
+3303,Teresa,Boyle,,26,1,51.56,1
+3304,Carolee,Thumma,,26,1,5.78,1
+3305,DWIGHT,CHESTNUT,,26,1,31.65,1
+3306,Veronica,Anthony,,26,1,47.21,1
+3307,Aaron,Matlock,,26,1,54.8,1
+3309,Carolyn,Long,,25,1,76.38,1
+3311,Lendol,Miller,,25,1,13.74,1
+3312,Gladney,Dillon,,25,1,14.85,1
+3314,Douglas,Rainey,,25,1,37.92,1
+3316,Alexander,Cooke,,25,3,426.48,1
+3320,Jan ,Kripzer,,25,1,34.99,1
+3321,Guy,Amato,,25,1,14.85,1
+3322,Andrzej,Kapitan,,25,1,42.31,1
+3323,AKOSSIWA ,AMENYITOR,,25,1,34.35,1
+3324,Anthony,Taylor,,25,1,16.55,1
+3325,Kira,Tate,Company370,25,1,56.01,1
+3326,Cristina,Habel,Company371,24,1,638.75,1
+3327,Shala,Fair,,24,1,18.51,1
+3328,Christopher,Zanini,,24,1,25.19,1
+3329,David,Kim,Company372,24,2,253.34,1
+3330,Kira,McCall,,24,1,32.43,1
+3332,Linda,Murphy,,24,1,41.21,1
+3333,Gail,Reel,Company373,24,1,34.99,1
+3334,Benedetto,Martinelli,,24,1,37.2,1
+3335,Vernon,Ritter,,24,1,9.99,1
+3336,gerald,bradley,,24,2,71.52,1
+3337,Mark,Dowling,,23,5,595.85,1
+3338,ANNE MARIE,DODERO,,23,1,27.99,1
+3339,Aleksandra,Baeva,,23,1,270.66,1
+3340,Blanca,Torres,,23,1,23.62,1
+3341,Lea,Smith,,23,1,16.86,1
+3342,Karen Marie,Halter,,23,1,18.99,1
+3343,David,Juarez,,23,1,192.69,1
+3344,Thelma,Meneses,,23,2,191.88,1
+3347,Joan,Clark,,23,1,163.0,1
+3348,Sue,Cox,,23,1,7.16,1
+3349,Gregory,Mason,,23,1,167.15,1
+3350,Matthew,Stahlnecker,,23,1,13.74,1
+3351,Angela,Walker,,23,1,15.98,1
+3352,Carol,Bartholomew,,23,1,24.65,1
+3353,Terri,Savage,,23,1,28.13,1
+3354,Chuck,Imig,,22,1,92.88,1
+3355,Francette,Bernard,,22,1,49.15,1
+3356,Gwen,Goldsack,,22,2,99.18,1
+3357,Tina,Smith,,22,2,154.98,1
+3358,Lloyd,Bachrach,,22,1,32.87,1
+3359,Constance,Hage,,22,1,92.25,1
+3361,cathie,range,,22,1,46.48,1
+3363,betty,montesi,,22,1,58.99,1
+3364,Carolyn,Spears,,22,1,42.65,1
+3365,Sam,Holleman,,22,2,586.88,1
+3366,Anna Maria,Postell,,22,1,59.17,1
+3367,Tanya,Glover,,22,1,23.0,1
+3369,donald,podrasky,,21,1,65.77,1
+3370,Randy,Petterson,,21,1,37.43,1
+3371,Terry,Rich,,21,1,37.98,1
+3373,Florence,Babalola,Company374,21,1,107.93,1
+3374,Tristan,Butler,,18,1,47.74,1
+3375,Noah,Prywes,,21,1,24.04,1
+3376,Joe,Naiser,Company375,20,1,6.98,1
+3378,Cherian,Abraham,,20,1,226.97,1
+3379,Daniel,Benjamin,,20,1,187.05,1
+3380,Steven,Lindenau,,20,1,19.98,1
+3381,Dr F Robert,Weeren,Company376,20,2,387.1,1
+3382,MEARL W,YOCUM,,20,1,173.75,1
+3383,Thomas,Edens,,20,1,275.0,1
+3385,Patricia,Demirjian,,20,1,61.15,1
+3386,Ravina,Sharma,,20,5,1224.65,3
+3387,myriam,gonzalez,,20,1,37.33,1
+3388,Laura,Patterson,,20,1,86.36,1
+3389,phillip,ciolfi,,20,1,35.33,1
+3390,Cynthia,Taber,Company73,20,1,46.31,1
+3391,Timothy,Carroll,,20,1,51.38,1
+3392,Darlene,Smith,Company377,5,2,139.34,1
+3393,Shawn,Manbeck,,20,1,46.35,1
+3394,christine,arnold,,20,1,63.85,1
+3395,Rita,Peters,,20,1,104.95,1
+3396,Dyllis,Minang,Company378,19,1,234.73,1
+3397,farid,zurmati,Company379,19,1,38.54,1
+3398,Shannon,Williams,Company380,19,1,58.6,1
+3399,Benjamin,Dewitt,,19,10,3861.8,3
+3401,Allen,Javadi,Company381,19,1,35.6,1
+3402,Sandra,Plummer,,19,1,125.99,1
+3403,Louis,Marango,,8,2,109.17,1
+3404,Jill,OGorman,,19,1,34.99,1
+3405,John Q.,Le,,19,1,109.79,1
+3406,Karen,Anderson,,19,2,139.62,1
+3407,Brenda,Stewart,,19,1,26.94,1
+3408,Angie,Cooper,,19,1,104.95,1
+3410,L R,Anthon,,19,1,79.83,1
+3411,Janice,Lane,Company382,19,1,44.25,1
+3412,Margaret,Nunez,,18,1,14.85,1
+3413,Stephanie,Glenn,,18,1,18.6,1
+3414,manuel,ryall,,18,1,14.85,1
+3415,Vicki,Gonzalez,,18,1,41.24,1
+3417,Juliette,harvey,Company383,18,1,64.33,1
+3418,Susana,Morton,,18,3,599.34,1
+3419,Jeff,Logan,Company384,18,2,302.28,1
+3420,Enrique,Laino,,18,1,33.26,1
+3421,Karen,Bryant,,18,2,166.28,1
+3422,Michael A,Batory,,18,1,137.97,1
+3424,Vickie,Dunn,,12,2,152.5,1
+3425,Benjamin,Dagana,Company385,17,1,266.45,1
+3426,Charles,Woolley,,17,1,107.45,1
+3427,Amanda,LaBorde,,17,1,120.59,1
+3428,Vivian,Wells,,17,1,32.04,1
+3429,Christina,Worley,,17,1,25.91,1
+3430,Cassandra,Caldwell,,17,1,36.05,1
+3431,Susan,Hopkins,Company386,17,1,25.26,1
+3432,Barbara,Gilpin,,15,1,94.59,1
+3433,Raymond,Driscoll,,17,1,23.08,1
+3434,Gloria,Warren,,17,1,19.59,1
+3435,Tiffany,Riley,,17,1,41.44,1
+3436,Robert,Ivy,,16,1,57.42,1
+3437,Bettye,Riley,,16,1,252.19,1
+3439,Casandra,McMorries,,16,1,58.99,1
+3440,Gladys L,Anglin,,16,1,95.03,1
+3441,Donna,Tarpenning,Company387,16,2,739.7,1
+3442,Tracie,McGhee,,16,1,65.26,1
+3443,Jeffery J,Tucker,,16,2,140.34,1
+3444,Donalee,Dietrich,,16,1,74.99,1
+3445,Deborah,Scobee,,16,1,164.56,1
+3446,Freddie,Jones,,15,1,46.73,1
+3447,Susan,Doherty,,15,1,15.0,1
+3448,Diane,Crammer,,15,1,70.69,1
+3449,Perla,Brown,,15,1,49.14,1
+3451,roseann,brack,,15,1,41.82,1
+3452,Luis F,Garcia,,15,1,76.47,1
+3453,Kawain,Grant,,15,1,19.98,1
+3454,jill,jensen,Company388,15,1,55.49,1
+3455,BART,BARNETT,Company389,15,2,141.44,1
+3456,Angela,Raines,,15,1,59.17,1
+3457,Chrles,Ingram,,15,1,14.85,1
+3458,Barbara,McGan,,15,1,49.43,1
+3459,Jos ,Celyn,,14,2,48.39,1
+3460,MARIA ,CONCIALDI,,15,1,32.69,1
+3461,Linda,Buck,,15,1,49.43,1
+3462,Helen,Blair,,15,1,42.58,1
+3464,Julia,Weaver,,15,1,36.91,1
+3465,Sandy,Schechter,,15,1,41.39,1
+3466,Austin,Schwitter,,15,1,38.1,1
+3467,WILLIAM,MOSS,,15,1,33.44,1
+3468,Monico,Acuna,Company390,14,1,62.35,1
+3469,Ann R.,Williams,,14,1,168.0,1
+3471,Douglas,Monsoor,,14,1,104.97,1
+3472,Lance,Stobbe,,14,1,48.03,1
+3473,Ronald,Lopes,,14,1,3.01,1
+3474,Jayne,Hermes,Company391,14,1,60.06,1
+3476,Warren ,Weitman,,14,1,44.92,1
+3477,Rose,Boron,Company392,14,1,8.91,1
+3478,Esteranza,Herrera,,14,2,461.88,1
+3479,Darlene,BONETTO,,14,1,13.04,1
+3480,Jessica,Johnson,,14,6,697.92,3
+3481,julia l,manning,,14,1,141.05,1
+3482,Ruijin,Qi,,14,1,13.49,1
+3483,John,Verigood,,14,1,23.08,1
+3484,Frederick,Fairhead,,14,1,35.98,1
+3485,Jummie,Adetoro,,14,1,59.31,1
+3486,Ruth,Zernhel,,14,1,103.97,1
+3487,Dawn,Wheeler,Company393,5,2,94.3,1
+3488,Mary,Sterling,,14,2,125.96,1
+3489,Linda,Sadler,,14,1,27.47,1
+3491,Emilie ,Angelo,Company394,14,1,105.94,1
+3492,Jane,Fleegel,,14,1,34.36,1
+3494,Hai,Tonthat,,13,1,61.15,1
+3495,Shoukrey,Nijmeh,Company395,13,1,180.0,1
+3496,Gretta,Roark,,13,1,15.51,1
+3497,sean ,mcdonald ,,13,1,67.14,1
+3498,Ranee,Wilson-Jones,,13,1,67.49,1
+3499,Christopher ,Sill,,13,1,64.05,1
+3500,Dennis,Feuerstein,,13,1,88.17,1
+3501,Ellen ,Gold,Company396,13,1,139.48,1
+3502,Rebecca ,Dhaemers,,13,1,118.15,1
+3503,James ,lee,,13,1,133.99,1
+3504,Paul,Clacher,,13,1,133.99,1
+3505,Shari ,Pine,,13,1,56.05,1
+3506,Jalix ,Georges,,13,1,171.25,1
+3508,Ralph,Gauthier,,13,1,34.35,1
+3510,Lupe,Rubio,,13,1,56.39,1
+3511,Thomas,Field,,13,1,269.99,1
+3512,Rebecca,Francisco,,13,1,27.47,1
+3513,mark,mckee,,13,1,74.75,1
+3514,Lester,Curnow,,13,1,14.85,1
+3516,Deanna,Myers,Company397,13,1,242.34,1
+3517,Johnnie,Gonzalez,,12,2,950.12,1
+3518,Keith,Campbell,,12,1,54.05,1
+3519,Susan,winkler-Abee,,12,1,239.05,1
+3520,Tom,Beatty,Company73,12,1,27.99,1
+3521,Carel,Lalonde,,12,1,27.47,1
+3522,nancy,sadler,,12,1,87.94,1
+3523,Shari,Kitt,Company398,12,1,58.6,1
+3524,Steve,Vandlen,Company399,12,1,62.43,1
+3525,Jess,Barrett,,1,1,54.18,1
+3526,Patricia,Kotsenas,Company122,12,1,74.75,1
+3527,Vinod,Maturi,,12,1,21.68,1
+3528,Laura,Austin,,12,1,38.28,1
+3529,madeline,espineira,,12,1,41.12,1
+3530,Carl,Prince,,12,1,5.78,1
+3531,mary,young,,12,1,375.95,1
+3532,John,Macsherry,,12,1,13.74,1
+3534,David,Seawell,,12,1,24.88,1
+3535,MARIA ,CONCIALDI,,12,1,35.08,1
+3536,Mario,Rivas,,12,1,74.41,1
+3537,Janet,Horton,,12,1,18.0,1
+3539,Universty Of Oklahoma Health Siensec Center,Psychiatrists Department ,,12,1,96.41,1
+3540,Patricia,Campbell,,12,1,33.95,1
+3541,Marija,ÌÄ®Õ?ÌÄÛ_ÌâåÊola ,,12,1,231.2,1
+3542,Patricia,Petralia,,11,1,113.0,1
+3545,Josphin,rodriguez,,11,1,56.45,1
+3546,susan,inderwish,,11,1,108.95,1
+3547,Richared,Walch,,11,1,17.3,1
+3548,Judith,Nagel,,11,1,18.99,1
+3550,Rebecca,Griffiths,,11,1,58.99,1
+3551,Elliott,Gross,,11,1,67.98,1
+3553,Ruben,Manuel,,11,1,73.98,1
+3554,Isidore,Esemonu,Company400,11,1,164.07,1
+3555,christopher,bridges,,11,1,56.88,1
+3556,Karen,Denlinger,,11,1,56.93,1
+3557,jennifer,tilzer,,11,1,32.49,1
+3558,Glenda,Hoppe,,11,1,19.95,1
+3559,June,Rudner,,11,1,27.99,1
+3560,Brenda,Settle,,11,1,64.53,1
+3561,FRANK,SOPINSKI,,11,1,27.99,1
+3562,michael,shotts,,11,1,77.44,1
+3563,Holly,Scotchel,Company401,11,1,58.99,1
+3564,Herman,Norman,,11,5,636.45,1
+3565,Harold,Roberts,Company402,11,1,27.99,1
+3566,Meghal,Parikh,Company403,10,2,111.62,1
+3567,Mark,Cordray,,10,1,51.94,1
+3568,TERRENCE,MURRAY,Company404,10,1,308.63,1
+3569,Mary,Spolski,,10,1,20.8,1
+3571,Jeannette,Haldane-Lazio,,10,1,69.53,1
+3573,Betty,Kight,,10,1,104.93,1
+3575,olga,pasko,,10,1,19.98,1
+3576,Charlotte,Robertson,,10,1,205.95,1
+3577,kenneth,Williams,Company405,10,1,33.16,1
+3578,Marjann,Keathley,,9,1,87.94,1
+3580,Germaine,Valentine,,9,2,212.54,1
+3581,Lois,Doucette,,9,1,114.83,1
+3582,Paul,Pemberton,,9,1,185.01,1
+3583,Mark,Campbell,,9,1,45.65,1
+3584,Sue,Vosko,,9,1,72.18,1
+3586,alicia,gutierrez,,8,2,676.98,1
+3587,Diane,Wolf,,8,1,73.98,1
+3589,Edgat,Berger,,8,1,67.59,1
+3590,Nancy,Brewer,,8,1,65.36,1
+3591,diane,bradshaw,,8,1,15.31,1
+3593,Dawn-Marie,Bey,Company382,7,1,380.39,1
+3594,Nina Rica,Lorca,,8,1,15.84,1
+3595,Arthur,Royer,,8,1,53.95,1
+3596,Shirley,Goerdel,,8,1,61.38,1
+3597,Terry,Brown,,8,1,12.46,1
+3598,Aurora,Constantino,,7,1,39.99,1
+3599,Shujaul,Chowdhury,,7,2,156.94,1
+3600,Rebecca,Schnepf,,7,1,34.99,1
+3601,Patricia,Sleeper,,7,1,14.85,1
+3602,Karen,Kenison,,7,1,97.48,1
+3603,Pamela,Chiang,Company406,7,1,168.31,1
+3604,Jeral,Dickenson,,7,1,53.05,1
+3605,Carolyn,Saadeh,,7,1,22.78,1
+3607,JoEllen,Johnson,,7,1,55.7,1
+3608,Emily,Estes,Company407,7,1,219.95,1
+3610,Keneth,Gostyla,,7,1,25.7,1
+3611,Kevin,Quinn,,7,1,30.83,1
+3612,Jordan,Rothstein,,6,1,33.2,1
+3613,Stefan,Danylyszyn,,6,1,61.22,1
+3614,Kathleen,Flynn,,6,1,167.14,1
+3615,Tamara,Hagen,Company408,6,1,93.79,1
+3616,Nick,Dziurkowski,Company409,6,1,14.85,1
+3617,Linda,Alloro,Company410,6,1,73.88,1
+3618,Evan,Piper,Company411,6,4,823.56,1
+3619,Lester,Schramm,,6,1,62.1,1
+3620,terry l.,smith,,6,1,68.53,1
+3621,Marvin,Rahman,,6,1,14.85,1
+3622,Bethel,Jones,,6,1,14.85,1
+3623,Cheryl,Porter,,6,1,324.99,1
+3625,Gery,Nystrom,,6,1,109.79,1
+3626,Jo Ann,Dixon,Company412,6,1,54.04,1
+3627,Susan,Straus,,6,3,200.45999999999998,1
+3628,Wesley,Richards,,6,1,28.55,1
+3629,James,Graham,Company116,6,1,125.99,1
+3630,Joseph,Scott,,6,1,11.99,1
+3631,Michael,Moscariello,,6,1,269.99,1
+3633,James L,Branch,,6,1,31.26,1
+3634,Elizabeth,Lane,,6,1,27.78,1
+3636,Barbara,Hawkins,,6,1,31.49,1
+3638,amanda,sapp,,6,1,29.37,1
+3639,Nathaniel,Clark,,6,1,132.24,1
+3640,ALVIN,DAUGHERTY,Company413,6,1,78.41,1
+3641,Patrick,OConnor,,5,1,51.94,1
+3643,Christine,Cloce,,5,1,48.79,1
+3644,jeanette,padilla,,5,1,64.25,1
+3645,Christine,de Lassus,Company414,5,1,28.82,1
+3646,BEVIE,DEWI,,5,1,34.35,1
+3647,Dolres,Bartolo,,5,1,11.85,1
+3648,Joy,Short,,5,1,62.39,1
+3649,Kinga,Czegeni,Company415,5,3,221.43,1
+3650,troy,zelones,,5,1,66.51,1
+3651,Peter,Sabo,,5,1,125.99,1
+3652,ANITA,GUTIERREZ,Company416,5,3,686.8499999999999,1
+3653,Jack ,McClaran,,5,1,32.99,1
+3654,karrie ,colson ,,5,1,37.0,1
+3655,Lorraen,Devoe,,5,1,44.95,1
+3656,Darla,Pasteur,,5,1,47.26,1
+3657,Vera,Vanderwaal,,5,2,77.66,1
+3658,Bart,Somers,Company417,5,1,42.58,1
+3659,Deidre,Flores,Company418,5,2,196.2,1
+3660,Mary,Wise,,5,1,6.25,1
+3661,Brenton,Carlini,,5,1,37.86,1
+3662,Robert,Black,Company419,5,1,570.56,1
+3663,Patricia,VanRyn,,5,1,29.33,1
+3664,JEANNETTE,MOZINA,,5,1,37.99,1
+3666,Satya,Nondon,,5,1,305.88,1
+3667,Gail,Yarbrough,,5,1,14.85,1
+3668,terry,baker,,5,3,594.9300000000001,1
+3669,Evelyn,Mitchell,,5,1,71.85,1
+3671,Ralph,Dougherty,,5,1,34.12,1
+3672,Joel,M.,Company420,4,1,173.61,1
+3673,Donald,Frostholm,,4,1,42.32,1
+3674,Steven,Hill,,4,1,14.18,1
+3675,Connie,Olney,,4,1,151.43,1
+3677,Patrick,Brew,Company421,4,2,144.18,1
+3678,Jessica,Musselman,Company422,4,1,64.43,1
+3679,Nathalie,Hendricks,,4,1,148.1,1
+3680,Jose,Ibarra,,4,1,135.1,1
+3681,Nelson,Colon,,4,1,51.39,1
+3683,Yan,He,,4,1,168.68,1
+3684,judy,tytell,Company54,4,1,23.57,1
+3686,Julia,Gearhart,Company423,3,1,29.7,1
+3687,Margaret,Walls,,3,1,73.98,1
+3688,Silvana,Sjostrand,,3,1,58.64,1
+3689,Roberta,Chavez,,3,1,54.22,1
+3690,Dian,Smith,,3,1,53.53,1
+3691,Mark,King,,3,1,22.2,1
+3692,Claro,Diaz,,3,1,105.93,1
+3695,Marjorie,Pilote,,3,1,39.99,1
+3696,Ross,Jentink,,3,1,15.31,1
+3698,James,Trautman,Company204,3,1,7.82,1
+3699,Malak,Shihab,,3,1,23.1,1
+3700,Carolyn V,Wegler,,3,2,179.86,1
+3701,Linda,Sorensen,,3,1,24.99,1
+3702,ERWIN,CORTEZ,,2,4,1464.2,3
+3703,Kasey,Howell,,2,1,285.95,1
+3704,James,Winger,,2,1,29.34,1
+3705,BRIAN,DELAHANTY,,2,1,38.23,1
+3706,James,Watt,,2,2,217.96,1
+3708,Joe,Summerfield,,2,1,38.95,1
+3709,Kenneth,Decker,,2,2,154.64,1
+3710,Hala,Kitmitto,,2,1,89.02,1
+3711,William,Erdo,,2,1,37.99,1
+3713,Debra,Christopher,,2,1,26.4,1
+3714,Stephen,Williamson,,2,1,28.55,1
+3715,Patrick,Harren,Company57,2,1,36.69,1
+3716,Allan,Schwartz,Company424,2,1,11.56,1
+3717,Lisa,Chung,,2,1,17.12,1
+3719,Kenneth,Cochran,,2,1,42.99,1
+3720,Robyn,Burton,,1,1,64.31,1
+3721,Darlene,Frome,,1,1,44.05,1
+3722,Jamie,Everett,,1,1,125.15,1
+3723,patrick,tracy,,1,1,265.51,1
+3724,Enrique,Gonzalez,,1,1,92.88,1
+3725,Pedro,Gomez,,1,1,27.47,1
+3726,Lisa,Mongar,,1,1,106.75,1
+3728,Cheryl,Veglio,,1,3,129.51,1
+3729,Gloria,Suarez,Company425,1,1,27.47,1
+3730,Nora,Fontana,,1,1,16.06,1
+3732,Kennithe,Tecora,,1,1,39.99,1
+3733,Tinna,Randall,,1,1,989.1,1
+3735,HALIMAH,SHAHID,,1,1,129.99,1
+3736,Michael,Kiernan,,1,1,24.54,1
