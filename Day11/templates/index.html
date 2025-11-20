@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset='utf-8'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maaş Tahmin Sistemi</title>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+    
+    .container {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        padding: 40px;
+        max-width: 500px;
+        width: 100%;
+    }
+    
+    h1 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 28px;
+    }
+    
+    .subtitle {
+        text-align: center;
+        color: #666;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+    
+    label {
+        display: block;
+        color: #555;
+        font-weight: 600;
+        margin-bottom: 8px;
+        font-size: 14px;
+    }
+    
+    input[type="text"] {
+        width: 100%;
+        padding: 12px 15px;
+        border: 2px solid #e0e0e0;
+        border-radius: 8px;
+        font-size: 15px;
+        transition: all 0.3s ease;
+        outline: none;
+    }
+    
+    input[type="text"]:focus {
+        border-color: #667eea;
+        box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+    }
+    
+    .btn-submit {
+        width: 100%;
+        padding: 14px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        margin-top: 10px;
+    }
+    
+    .btn-submit:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+    }
+    
+    .btn-submit:active {
+        transform: translateY(0);
+    }
+    
+    .result {
+        margin-top: 30px;
+        padding: 20px;
+        background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%);
+        border-radius: 12px;
+        text-align: center;
+        animation: slideIn 0.5s ease;
+    }
+    
+    .result-text {
+        color: #2c5282;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.6;
+    }
+    
+    @keyframes slideIn {
+        from {
+            opacity: 0;
+            transform: translateY(-20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+    
+    .icon {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="icon">💰</div>
+    <h1>Maaş Tahmin Sistemi</h1>
+    <p class="subtitle">Bilgilerinizi girerek tahmini maaşınızı öğrenin</p>
+    
+    <form action="/predict" method="post">
+        <div class="form-group">
+            <label for="isim">👤 İsim</label>
+            <input type="text" id="isim" name="isim" placeholder="Adınızı girin" required />
+        </div>
+        
+        <div class="form-group">
+            <label for="tecrube">📊 Tecrübe (Yıl)</label>
+            <input type="text" id="tecrube" name="tecrube" placeholder="Örn: 5" required />
+        </div>
+        
+        <div class="form-group">
+            <label for="yazili">📝 Yazılı Sınav Notu</label>
+            <input type="text" id="yazili" name="yazili" placeholder="0-10 arasında" required />
+        </div>
+        
+        <div class="form-group">
+            <label for="mulakat">🎤 Mülakat Puanı</label>
+            <input type="text" id="mulakat" name="mulakat" placeholder="0-10 arasında" required />
+        </div>
+        
+        <button type="submit" class="btn-submit">Maaş Tahmini Yap</button>
+    </form>
+    
+    {% if tahmin %}
+    <div class="result">
+        <div class="result-text">
+            {{ tahmin }}
+        </div>
+    </div>
+    {% endif %}
+</div>
+</body>    
+</html>
